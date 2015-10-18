@@ -27,8 +27,13 @@ body {
     margin-bottom: -1px;
 }
 
+.canvas {
+    overflow: hidden;
+    margin-bottom: -10px;
+}
+
 .photos {
-    margin: -10px;
+    margin: -40px;
 }
 
 .photo {
