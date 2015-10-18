@@ -1,0 +1,164 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 80px;
+    height: 80px;
+    padding-top: 0;
+    font-size: 1.6em;
+}
+
+.navbar a {
+    color: #ddd !important;
+}
+
+.navbar a:hover {
+    color: #fff !important;
+}
+
+.navbar-toggle {
+    margin-top: 20px;
+}
+
+.navbar .container {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.10);
+    margin-bottom: -1px;
+}
+
+.photos {
+    margin: -10px;
+}
+
+.photo {
+    float:left;
+    position: relative;
+    width: 100%;
+    padding-bottom : 100%;
+}
+
+.photo a {
+    top: 20px;
+    left: 20px;
+    bottom: 20px;
+    right: 20px;
+
+    position: absolute;
+    display: block;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.photo a:hover::before {
+    content: "";
+    background: #fff;
+    opacity: 0.2;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: 10;
+}
+
+.navbar + header {
+    margin-top: -80px;
+}
+
+.navbar.affix + header {
+    margin-top: 0;
+}
+
+.navbar {
+    border: 0 solid transparent;
+    -webkit-transition: border-top-width 0s linear,background-color 0s linear;
+    -o-transition: border-top-width 0s linear,background-color 0s linear;
+    transition: border-top-width 0s linear,background-color 0s linear;
+}
+
+.navbar.affix {
+    right: 0;
+    left: 0;
+    top: -80px;
+    border-top-width: 80px;
+    -webkit-transition: border-top-width .2s ease-out,background-color .2s ease-out;
+    -o-transition: border-top-width .2s ease-out,background-color .2s ease-out;
+    transition: border-top-width .2s ease-out,background-color .2s ease-out;
+}
+
+.navbar.affix {
+    background: rgb(30,20,25);
+}
+
+.navbar.affix .container {
+    border-bottom: none;
+}
+
+.navbar-static-top {
+    margin-bottom: 0;
+}
+
+.navbar-inverse,
+header > div{
+    background: rgb(30,20,25);
+}
+
+header .container {
+    padding-top: 150px;
+    height: 350px;
+}
+
+@media (min-width: 782px) {
+    .photo {
+        width: 50%;
+        padding-bottom : 50%;
+    }
+
+    .navbar-inverse {
+        background-color: transparent;
+    }
+
+    header > div {
+        background: -webkit-linear-gradient(-90deg, rgba(30,20,25,1) 0, rgba(30,20,25,0.9) 100%);
+        background: -moz-linear-gradient(180deg, rgba(30,20,25,1) 0, rgba(30,20,25,0.9) 100%);
+        background: linear-gradient(180deg, rgba(30,20,25,1) 0, rgba(30,20,25,0.9) 100%);
+
+    }
+}
+
+@media (min-width: 1200px) {
+    .photo {
+        width: 25%;
+        padding-bottom : 25%; /* = width for a 1:1 aspect ratio */
+    }
+}
+
+header {
+    background: url(cover.jpg);
+    height: 350px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 40px;
+    color: #ddd;
+}
+
+.navbar-brand {
+    font-family: 'Indie Flower', cursive;
+}
+
+.navbar-brand sup {
+    font-size: 0.6em;
+    color: rgb(197, 201, 99);
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+footer {
+    padding: 40px;
+    color: #888;
+}

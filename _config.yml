@@ -1,0 +1,5 @@
+name: MyWildBouquet
+markdown: redcarpet
+highlighter: pygments
+permalink: /:title
+url: "http://mywildbouquet.com"
