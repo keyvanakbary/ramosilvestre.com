@@ -115,7 +115,7 @@ header .container {
     height: 350px;
 }
 
-@media (min-width: 782px) {
+@media (min-width: 768px) {
     .photo {
         width: 50%;
         padding-bottom : 50%;
@@ -133,7 +133,7 @@ header .container {
     }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1024px) {
     .photo {
         width: 25%;
         padding-bottom : 25%; /* = width for a 1:1 aspect ratio */
