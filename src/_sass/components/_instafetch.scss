@@ -1,0 +1,68 @@
+/**
+ * Social
+ */
+#instafetch {
+
+  a {
+    @extend %box-shadow;
+
+    position: relative;
+
+    display: block;
+
+    background-color: $color-white;
+
+
+    width: 80%;
+    padding-bottom: 80%;
+    margin: 1em auto;
+    overflow: hidden;
+    position: relative;
+
+    &:hover,
+    &:active,
+    &:focus {
+
+      div {
+        opacity: 0.9;
+      }
+    }
+  }
+
+  figure {
+    position: absolute;
+    width: auto;
+    min-width: 100%;
+    min-height: 100%;
+    background: no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  div {
+    @extend %flex-center;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    height: 100%;
+    width: 100%;
+    padding: 2em;
+
+    color: $color-white;
+    background-color: $color-beta;
+    text-align: center;
+    will-change: opacity;
+    opacity: 0;
+    transition: opacity 0.4s ease-in-out;
+  }
+
+  p {
+    margin-bottom: 0;
+
+    font-size: 1.25em;
+  }
+}

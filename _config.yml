@@ -1,5 +1,40 @@
-name: MyWildBouquet
-markdown: redcarpet
-highlighter: rouge
+source: src
+destination: build
+
+# Site settings
+baseurl: ""
+
+# Color settings (Hex value without #)
+color_alpha: feeaeb
+color_beta: 0f0f0f
+
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
+
+# Instagram API
+instagram_key: 1830171761.1677ed0.70847a59233249c79b29005c69209fb6
+instagram_caption: false
+
+# SEO settings
+title: My Wild Bouquet
+description:
+url: ""
+email:
+twitter_username: mywildbouquet
+default_img:
+
+# Profile settings
+social:
+  twitter: https://twitter.com/mywildbouquet
+
+# Build settings
+exclude: ["node_modules", "gulpfile.js", "assets/js/app.js", "README.md", "Gemfile", "Gemfile.lock"]
+markdown: kramdown
 permalink: /:title
-url: "http://mywildbouquet.com"
+
+# Sass
+sass:
+  style: compressed
+
+# Gems
+gems: [jekyll-sitemap, octopress-autoprefixer]

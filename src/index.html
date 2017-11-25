@@ -1,0 +1,58 @@
+---
+layout: default
+---
+<section class="mast">
+  <header class="mast__header">
+    <h1>My Wild Bouquet</h1>
+    <span>Clara Fernández • Flowers & Inspiration • London</span>
+  </header>
+  <div class="mast__img bg-grey">
+    <div class="absolute-bg" style="background-image: url('/assets/images/mast-left.jpg');"></div>
+  </div>
+  <div class="mast__img bg-alpha">
+    <div class="absolute-bg" style="background-image: url('/assets/images/mast-right.jpg');"></div>
+  </div>
+</section>
+
+<section id="acerca-de" class="section-padding bg-grey">
+  <div class="grid">
+    <h1 class="section-header">Acerca de</h1>
+    <div class="about">
+      <p class="about__text wow fadeInUp" data-wow-delay="300ms">Si os gusta Londres y su vida ¡no dejes de leer este blog! Durante este año, intentaré escribir y fotografiar lo que me gusta, lo que hace sentirme creativa y las ideas que me gustaría llevar a España cuando regrese. ¡Allá vamos!</p>
+    </div>
+    <div id="instafetch" class="container-triple"></div>
+  </div>
+</section>
+
+<section id="blog" class="section-padding bg-white">
+  <div class="grid">
+    <h1 class="section-header">Blog</h1>
+    <ul class="container-double" itemscope itemtype="http://schema.org/Blog">
+      {% for post in site.posts limit:6 %}
+        <li class="preview" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+          <a class="preview__link" href="{{ post.url | prepend: site.baseurl }}" itemprop="url">
+            <div class="preview__img bg-grey wow slideInUp">
+              <figure class="absolute-bg wow fadeIn" data-wow-delay="900ms" style="background-image: url('{{ post.image }}');"></figure>
+            </div>
+            <div class="preview__container bg-white">
+              <div>
+                <h2 class="wow fadeInUp" data-wow-delay="150ms" itemprop="name">{{ post.title }}</h2>
+                <p class="preview__excerpt wow fadeInUp" data-wow-delay="300ms" itemprop="description">{{ post.content | strip_html | truncatewords: 30 }}</p>
+              </div>
+              <time class="preview__date wow fadeInUp" data-wow-delay="450ms" itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+            </div>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <div class="container-btn">
+      <a class="btn" href="/archive/">
+        <div>
+          <span>Más artículos</span>
+          <span>Más artículos</span>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
