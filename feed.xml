@@ -5,8 +5,8 @@
     <description></description>
     <link></link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 25 Nov 2017 04:09:33 +0000</pubDate>
-    <lastBuildDate>Sat, 25 Nov 2017 04:09:33 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Nov 2017 04:13:08 +0000</pubDate>
+    <lastBuildDate>Sat, 25 Nov 2017 04:13:08 +0000</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
@@ -37,8 +37,17 @@
       </item>
     
       <item>
-        <title>Mercado navideño en Londres, Country Living Christmas Fair</title>
-        <description>&lt;p&gt;Un año más, &lt;strong&gt;Londres&lt;/strong&gt; se prepara para la navidad como solo ellos saben hacerlo. Es mundialmente conocido el ambiente navideño que se vive en esta ciudad, caracterizado por sus luces, su trabajada decoración en las todas las tiendas, su inmensos árboles de navidad, por sus decenas de mercados navideños y ferias de navidad etc.&lt;/p&gt;
+        <title>Mercado Navideno En Londres</title>
+        <description>
+&lt;hr /&gt;
+&lt;p&gt;layout: post
+title: “Mercado navideño en Londres, Country Living Christmas Fair”
+categories:
+description:
+image: /assets/images/posts/mercado-navidad.jpg
+—&lt;/p&gt;
+
+&lt;p&gt;Un año más, &lt;strong&gt;Londres&lt;/strong&gt; se prepara para la navidad como solo ellos saben hacerlo. Es mundialmente conocido el ambiente navideño que se vive en esta ciudad, caracterizado por sus luces, su trabajada decoración en las todas las tiendas, su inmensos árboles de navidad, por sus decenas de mercados navideños y ferias de navidad etc.&lt;/p&gt;
 
 &lt;p&gt;Pero hoy me voy a centrar en este en concreto, en el &lt;strong&gt;Country Living Christmas Fair&lt;/strong&gt;.&lt;/p&gt;
 
@@ -55,8 +64,8 @@
 &lt;p&gt;Enlace: &lt;a href=&quot;http://www.countrylivingfair.com&quot;&gt;Country Living Fair&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
-        <link>/mercado-navideno-en-londres-country-living-christmas-fair0</link>
-        <guid isPermaLink="true">/mercado-navideno-en-londres-country-living-christmas-fair0</guid>
+        <link>/mercado-navideno-en-londres</link>
+        <guid isPermaLink="true">/mercado-navideno-en-londres</guid>
         
         
       </item>
