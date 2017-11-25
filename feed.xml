@@ -5,8 +5,8 @@
     <description></description>
     <link></link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 25 Nov 2017 04:22:56 +0000</pubDate>
-    <lastBuildDate>Sat, 25 Nov 2017 04:22:56 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Nov 2017 12:09:32 +0000</pubDate>
+    <lastBuildDate>Sat, 25 Nov 2017 12:09:32 +0000</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
@@ -30,8 +30,8 @@
 &lt;p&gt;Las flores secas dan un toque &lt;strong&gt;vintage y romántico&lt;/strong&gt;, a mi me encantan y lo mejor de todo es que durarán así muchísimos años.&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
-        <link>/como-secar-un-ramo-de-flores</link>
-        <guid isPermaLink="true">/como-secar-un-ramo-de-flores</guid>
+        <link>/blog/como-secar-un-ramo-de-flores</link>
+        <guid isPermaLink="true">/blog/como-secar-un-ramo-de-flores</guid>
         
         
       </item>
@@ -55,8 +55,8 @@
 &lt;p&gt;Enlace: &lt;a href=&quot;http://www.countrylivingfair.com&quot;&gt;Country Living Fair&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
-        <link>/mercado-navideno-en-londres</link>
-        <guid isPermaLink="true">/mercado-navideno-en-londres</guid>
+        <link>/blog/mercado-navideno-en-londres</link>
+        <guid isPermaLink="true">/blog/mercado-navideno-en-londres</guid>
         
         
       </item>
@@ -82,8 +82,10 @@
 &lt;p&gt;Si sigues estos sencillos pasos, verás cómo las flores te duran preciosas el doble de tiempo. Siendo florista, es algo que hacemos habitualmente para mantener nuestras flores más frescas. &lt;strong&gt;¡Pruébalo!&lt;/strong&gt; 😉&lt;/p&gt;
 </description>
         <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
-        <link>/como-cuidar-un-ramo-de-flores</link>
-        <guid isPermaLink="true">/como-cuidar-un-ramo-de-flores</guid>
+        <link>/blog/como-cuidar-un-ramo-de-flores</link>
+        <guid isPermaLink="true">/blog/como-cuidar-un-ramo-de-flores</guid>
+        
+        <category>Ramos</category>
         
         
       </item>
