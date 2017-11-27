@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Mercado navideño en Londres"
-categories: 
+categories:
   - Navidad
-  - Mercado de navidad
+  - Mercado de Navidad
   - Londres
   - Decoracion
-  
+
 description: Mercado navideño en Londres
 image: /assets/images/posts/mercado-navidad.jpg
 ---
@@ -19,7 +19,7 @@ Es un mercado navideño situado en el centro de Londres, que este año se realiz
 
 Pero también aquí se exponía arte, en concreto la colección de **Yvonne Coomber** una artista que refleja en cuadros **la naturaleza, las flores, el campo**... desde una manera brillante, vibrante, mágica y arriesgada. Ella lo define como: “Painting for me is a love affair. My work is a celebration of all that is good in the world”. Personalmente ha sido todo un descubrimiento y sus cuadros me han transmitido tanta pasión por las las flores y por el color, que la visita se me ha hecho muy cálida.
 
-
+![Cuadro Yvonne](/assets/images/posts/cuadro-yvonne.jpg)
 
 ## Curiosidades
 
