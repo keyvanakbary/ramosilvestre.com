@@ -5,8 +5,8 @@
     <description></description>
     <link></link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 27 Nov 2017 11:14:33 +0000</pubDate>
-    <lastBuildDate>Mon, 27 Nov 2017 11:14:33 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Nov 2017 11:15:45 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Nov 2017 11:15:45 +0000</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
@@ -60,6 +60,8 @@
         <link>/blog/mercado-navideno-en-londres</link>
         <guid isPermaLink="true">/blog/mercado-navideno-en-londres</guid>
         
+        
+        <category>Navidad</category>
         
       </item>
     
