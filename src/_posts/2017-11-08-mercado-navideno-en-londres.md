@@ -14,6 +14,8 @@ Es un mercado navideño situado en el centro de Londres, que este año se realiz
 
 Pero también aquí se exponía arte, en concreto la colección de **Yvonne Coomber** una artista que refleja en cuadros **la naturaleza, las flores, el campo**... desde una manera brillante, vibrante, mágica y arriesgada. Ella lo define como: “Painting for me is a love affair. My work is a celebration of all that is good in the world”. Personalmente ha sido todo un descubrimiento y sus cuadros me han transmitido tanta pasión por las las flores y por el color, que la visita se me ha hecho muy cálida.
 
+2/assets/images/posts/017-11-15 at 12.34.53.png
+
 ## Curiosidades
 
 ¿Has olido alguna vez la **naranja o lima seca**? En Londres, es muy tradicional colgar del árbol de Navidad o decorar tu casa con naranjas o limas secas. Transmiten una increíble fragancia que envuelve el espacio durante bastantes días. Es una manera diferente de decorar tu casa. Aquí se pueden encontrar en cualquier mercado navideño o tienda un poco más ‘tradicional’.
