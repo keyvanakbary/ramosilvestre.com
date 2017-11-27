@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mercado navideño en Londres, Country Living Christmas Fair"
+title: "Mercado navideño en Londres"
 categories: Navidad
 description: Mercado navideño en Londres
 image: /assets/images/posts/mercado-navidad.jpg
