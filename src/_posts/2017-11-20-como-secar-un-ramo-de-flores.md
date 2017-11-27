@@ -2,6 +2,7 @@
 layout: post
 title: "Cómo secar un ramo de flores"
 categories:
+
     - Secar flores
     - Flores
     - Decoracion
