@@ -1,7 +1,12 @@
 ---
 layout: post
 title: "Mercado navideño en Londres"
-categories: Navidad
+categories: 
+  - Navidad
+  - Mercado de navidad
+  - Londres
+  - Decoracion
+  
 description: Mercado navideño en Londres
 image: /assets/images/posts/mercado-navidad.jpg
 ---
