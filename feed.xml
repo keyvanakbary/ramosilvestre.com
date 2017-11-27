@@ -5,8 +5,8 @@
     <description></description>
     <link></link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 27 Nov 2017 17:34:39 +0000</pubDate>
-    <lastBuildDate>Mon, 27 Nov 2017 17:34:39 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Nov 2017 17:35:47 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Nov 2017 17:35:47 +0000</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
@@ -87,12 +87,18 @@
 
 &lt;p&gt;Enlace: &lt;a href=&quot;http://www.countrylivingfair.com&quot;&gt;Country Living Fair&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
         <link>/blog/mercado-navideno-en-londres</link>
         <guid isPermaLink="true">/blog/mercado-navideno-en-londres</guid>
         
         
         <category>Navidad</category>
+        
+        <category>Mercado de navidad</category>
+        
+        <category>Londres</category>
+        
+        <category>Decoracion</category>
         
       </item>
     
