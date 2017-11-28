@@ -27,4 +27,4 @@ Hay diferentes productos líquidos y granulados que sirven para hacer vivir más
 
 <!-- FOTO TIJERAS Y PUNTAS -->
 
-Si sigues estos sencillos pasos, verás cómo las flores te duran preciosas el doble de tiempo. Siendo florista, es algo que hacemos habitualmente para mantener nuestras flores más frescas. **¡Pruébalo!** 😉
+Si sigues estos pasos, verás cómo las flores te duran preciosas el doble de tiempo. Siendo florista, es algo que hacemos habitualmente para mantener nuestras flores más frescas. **¡Pruébalo!** 😉
