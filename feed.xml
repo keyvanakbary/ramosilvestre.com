@@ -5,8 +5,8 @@
     <description></description>
     <link></link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Nov 2017 19:32:49 +0000</pubDate>
-    <lastBuildDate>Tue, 28 Nov 2017 19:32:49 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Nov 2017 20:08:37 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Nov 2017 20:08:37 +0000</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
@@ -33,12 +33,12 @@
         <link>/blog/como-secar-un-ramo-de-flores</link>
         <guid isPermaLink="true">/blog/como-secar-un-ramo-de-flores</guid>
         
-        
         <category>Secar flores</category>
         
         <category>Flores</category>
         
         <category>Decoracion</category>
+        
         
       </item>
     
@@ -72,7 +72,6 @@
         <link>/blog/mercado-navideno-en-londres</link>
         <guid isPermaLink="true">/blog/mercado-navideno-en-londres</guid>
         
-        
         <category>Navidad</category>
         
         <category>Mercado de Navidad</category>
@@ -80,6 +79,7 @@
         <category>Londres</category>
         
         <category>Decoracion</category>
+        
         
       </item>
     
@@ -109,12 +109,12 @@
         <link>/blog/como-cuidar-un-ramo-de-flores</link>
         <guid isPermaLink="true">/blog/como-cuidar-un-ramo-de-flores</guid>
         
-        
         <category>Ramos</category>
         
         <category>Flores</category>
         
         <category>Cuidado de flores</category>
+        
         
       </item>
     
