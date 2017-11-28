@@ -29,6 +29,8 @@ Pero también aquí se exponía arte, en concreto la colección de **Yvonne Coom
 
 ¿Has olido alguna vez la **naranja o lima seca**? En Londres, es muy tradicional colgar del árbol de Navidad o decorar tu casa con naranjas o limas secas. Transmiten una increíble fragancia que envuelve el espacio durante bastantes días. Es una manera diferente de decorar tu casa. Aquí se pueden encontrar en cualquier mercado navideño o tienda un poco más ‘tradicional’.
 
+![Lima y limon secos](/assets/images/posts/limaylimonsecos.jpg)
+
 En resumen, este mercado lo tenía todo para mí. Me ha gustado mucho, además que me ha permitido entrar de lleno en la navidad, que aunque sea un poco pronto para España, aquí en Londres se vive de manera muy intensa tras terminar Halloween, pero no solo para poder ir de compras y cenas, si no que te deja ver en esta ciudad su cultura, su artesanía, su música, su vida con un “toque” especial, que por lo menos a mi **¡Me encanta!**
 
 Enlace: [Country Living Fair](http://www.countrylivingfair.com)
