@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mercado navideño en Londres"
-categories:
+tags:
   - Navidad
   - Mercado de Navidad
   - Londres

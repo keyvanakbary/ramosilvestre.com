@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cómo cuidar un ramo de flores"
-categories:
+tags:
   - Ramos
   - Flores
   - Cuidado de flores
