@@ -11,6 +11,7 @@ image: /assets/images/posts/cuidar-ramo.jpg
 ---
 
 Muchas personas se preguntan cuando compran o les regalan un ramo de flores, ¿Cómo cuido las flores? **¿Qué debo hacer para que las flores duren más?** ¿Hay trucos o productos que hagan vivir más tiempo las flores?
+![Cuidar flores] assets/images/posts/ramodeflores.jpg
 
 La verdad que conseguir que un ramo de flores te dure más tiempo, incluso el doble de lo normal, es bien fácil.
 
