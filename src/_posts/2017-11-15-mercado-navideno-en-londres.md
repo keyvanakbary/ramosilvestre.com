@@ -11,7 +11,7 @@ description: Mercado navideño en Londres
 image: /assets/images/posts/mercado-navidad.jpg
 ---
 
-Un año más, **Londres** se prepara para la navidad como solo ellos saben hacerlo. Es mundialmente conocido el ambiente navideño que se vive en esta ciudad, caracterizado por sus luces, su trabajada decoración en las todas las tiendas, su inmensos árboles de navidad, por sus decenas de mercados navideños y ferias etc.
+Un año más, **Londres** se prepara para la navidad como solo ellos saben hacerlo. Es mundialmente conocido el ambiente navideño que se vive en esta ciudad, caracterizado por sus luces, su trabajada decoración en todas las tiendas, su inmensos árboles de navidad, por sus decenas de mercados navideños y ferias etc.
 
 Pero hoy me voy a centrar en este en concreto, en el **Country Living Christmas Fair**.
 
