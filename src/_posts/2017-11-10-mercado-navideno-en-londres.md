@@ -15,6 +15,8 @@ Un año más, **Londres** se prepara para la navidad como solo ellos saben hacer
 
 Pero hoy me voy a centrar en este en concreto, en el **Country Living Christmas Fair**.
 
+![Christmas Fair](/assets/images/posts/mercado.nave.jpg)
+
 Es un mercado navideño situado en el centro de Londres, que este año se realizó del 8 al 12 de Noviembre. Lo que me llamó la atención de esta feria antes de ir, fue la combinación de muchos elementos que se juntaban en un solo espacio: la opción de comprar decoración y regalos navideños, puestos de artesanía, de dulces, poder comer gastronomía típica inglesa navideña, como el “**mince pie**” (pastel de frutos secos y pasas o carne) o beber el “**mulled wine**”, el famoso vino caliente, que no a todos gusta, pero que a mi me chifla. Además es un mercado cubierto, que quieras o no ayuda con el frío y  la lluvia que nos acompaña en estas fechas.
 
 Pero también aquí se exponía arte, en concreto la colección de **Yvonne Coomber** una artista que refleja en cuadros **la naturaleza, las flores, el campo**... desde una manera brillante, vibrante, mágica y arriesgada. Ella lo define como: “Painting for me is a love affair. My work is a celebration of all that is good in the world”. Personalmente ha sido todo un descubrimiento y sus cuadros me han transmitido tanta pasión por las las flores y por el color, que la visita se me ha hecho muy cálida.
