@@ -5,6 +5,8 @@ tags:
   - Ramos
   - Flores
   - Cuidado de flores
+  - Decoracion
+  - Cuidados
 
 description: Como cuidar un ramo de flores
 image: /assets/images/posts/cuidar-ramo.jpg
