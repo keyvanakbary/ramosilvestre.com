@@ -22,7 +22,7 @@ Son preguntas que nos podemos hacer en un momento dado, y aquí te dejo un conse
 2. Ata el ramo por el tallo con un trozo de cuerda, hilo, lazo... y cuélgalo boca abajo. Lo puedes colgar del pomo de una puerta, de un perchero, de una estantería etc.
 3. Espera de 2 a 3 meses para que estén todas las flores completamente secas y, ¡ya está listo!
 
-<!-- FOTO DE FLORES SECAS EL PROCESO -->
+
 
 Como ves es muy fácil. Si lo haces de esta manera conseguirás que todas las flores se sequen y **obtengan el color adecuado de secado** y estarán rígidas, perfectas para colocar en un jarrón en cualquier lugar de la casa.
 
