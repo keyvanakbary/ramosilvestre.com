@@ -24,9 +24,7 @@ Hay diferentes productos líquidos y granulados que sirven para hacer vivir más
 * Evitar poner el ramo cerca de una radiador o en lugares muy calientes.
 * Cuando pongas las flores en el jarrón de agua, asegúrate que **los tallos de las flores no tienen hojas**. Las hojas en contacto con el agua pudren el tallo generando bacterias que contaminan el agua y hacen que las flores duren menos tiempo.
 * Cambia el agua del jarrón cada 2 o 3 días, sobretodo si el lugar donde están las flores es cálido.
-* Y por último, y los más efectivo, cada vez que cambies el agua asegúrate de cortar la punta de los tallos de las flores (si es en diagonal aún mejor). Esto permitirá absorban más cantidad de agua y por lo tanto estarán más hidratadas y vivirán más tiempo.
+* Y por último, y **lo más efectivo**, cada vez que cambies el agua asegúrate de cortar la punta de los tallos de las flores (si es en diagonal aún mejor). Esto permitirá absorban más cantidad de agua y por lo tanto estarán más hidratadas y vivirán más tiempo.
 * Todo esto te llevará menos de 5 minutos.
-
-<!-- FOTO TIJERAS Y PUNTAS -->
 
 Si sigues estos pasos, verás cómo las flores te duran preciosas el doble de tiempo. Siendo florista, es algo que hacemos habitualmente para mantener nuestras flores más frescas. **¡Pruébalo!** 😉
