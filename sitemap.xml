@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/blog/como-cuidar-un-ramo-de-flores</loc>
-<lastmod>2017-11-15T00:00:00+00:00</lastmod>
-</url>
-<url>
 <loc>/blog/mercado-navideno-en-londres</loc>
 <lastmod>2017-11-15T00:00:00+00:00</lastmod>
 </url>
@@ -19,21 +15,6 @@
 <loc>/</loc>
 </url>
 <url>
-<loc>/blog/tag/ramos/</loc>
-</url>
-<url>
-<loc>/blog/tag/flores/</loc>
-</url>
-<url>
-<loc>/blog/tag/cuidado-de-flores/</loc>
-</url>
-<url>
-<loc>/blog/tag/decoracion/</loc>
-</url>
-<url>
-<loc>/blog/tag/cuidados/</loc>
-</url>
-<url>
 <loc>/blog/tag/navidad/</loc>
 </url>
 <url>
@@ -43,6 +24,12 @@
 <loc>/blog/tag/londres/</loc>
 </url>
 <url>
+<loc>/blog/tag/decoracion/</loc>
+</url>
+<url>
 <loc>/blog/tag/secar-flores/</loc>
+</url>
+<url>
+<loc>/blog/tag/flores/</loc>
 </url>
 </urlset>
