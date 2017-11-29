@@ -14,6 +14,8 @@ Tras 4 años de vivir en Londres me he dado cuenta de la cultura de flores tan g
 
 Pero también me he dado cuenta, que es muy tradicional secar las flores y usarlas de manera decorativa. **¿Por qué no secar las flores tan bonitas que he comprado?** ¿Por qué no secar el ramo de novia que me regalaron y así hacerlo perdurar para siempre en el tiempo?
 
+![Christmas Fair](/assets/images/posts/secar-floresjpg)
+
 Son preguntas que nos podemos hacer en un momento dado, y aquí te dejo un consejo y el método para **secar un ramo de flores** y que te quede perfecto. Es muy sencillo:
 
 1. Busca un lugar de la casa seco y que no entre demasiada luz.
