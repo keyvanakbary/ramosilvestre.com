@@ -17,7 +17,7 @@ Muchas personas se preguntan cuando compran o les regalan un ramo de flores, ¿C
 ![Cuidar flores](/assets/images/posts/ramodeflores.jpg)
 
 
-La verdad que conseguir que un ramo de flores te dure más tiempo, incluso el doble de lo normal, es bien fácil.
+La verdad que conseguir que un ramo de flores te dure más tiempo, incluso el doble de lo normal, es muy fácil.
 
 Hay diferentes productos líquidos y granulados que sirven para hacer vivir más tiempo las flores, que puedes conseguir en una floristería o tienda de jardinería sin problemas. También hay ‘leyendas’ como que las flores viven más tiempo si les echas azúcar o aspirina al agua, pero en realidad  **nada de esto es necesario**, ni tan efectivo en comparación con seguir simplemente **estos sencillos pasos**:
 
