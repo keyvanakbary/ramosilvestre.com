@@ -21,7 +21,7 @@ Es cierto, que un cuidado inapropiado de esta planta hace que muera muy pronto, 
 
 - Es una planta de interior y su temperarura ideal esta entre 17 y 20 grados, por la tanto evita ponerla cerca de un radiador o calefactor.
 - Debe estar un lugar de la casa donde haya luz (no en un baño, por ejemplo), pero que no le de la luz directa del sol.
-- Un error común es sobreregarla, lo que hace que las hojas empiecen a caerse y se pudra. Lo mejor es regarla poco, solo ponerle agua cuando **la tierra esté muy seca** y las hojas se empiecen a "enroscar".
+- Un error común es regarla mucho, lo que hace que las hojas empiecen a caerse y se pudra. Lo mejor es regarla poco, solo ponerle agua cuando **la tierra esté muy seca** y las hojas se empiecen a "enroscar".
 
 Muchos podéis pensar que una vez se acaba la temporada de la flor de pascua, la planta muere ¡pero no!, podéis **manterla viva** y que vuelva a nacer a la temporada siguiente. ¿Cómo? 
 
