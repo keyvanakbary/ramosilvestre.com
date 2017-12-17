@@ -13,7 +13,7 @@ tags:
 En este artículo, os dejo unos consejos para cuidar tu _Euphorbia pulcherrima_, o popularmente conocida como **flor de pascua** o Poinsetia.
 
 Si hay una planta que se asocie con la **Navidad**, esta es sin duda la flor de pascua. Esta planta tiene sus orígenes en Centro-América, florece de Diciembre a Febrero y puede llegar a alcanzar hasta 4 metros de altura.
-Aunque el color más popupar en navidad es el rojo, en la actualidad puedes conseguirlas en color salmón, rosa claro y blanco, o incluso de dos colores en la misma flor.
+Aunque el color más popular en navidad es el rojo, en la actualidad puedes conseguirlas en color salmón, rosa claro y blanco, o incluso de dos colores en la misma flor.
 
 ![Como cuidar la Flor de Pascua](/assets/images/posts/flor-de-pascua-colores.jpg)
 
