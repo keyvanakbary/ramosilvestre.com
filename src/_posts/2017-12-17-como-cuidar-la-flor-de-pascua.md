@@ -10,14 +10,14 @@ tags:
   - Navidad
 ---
 
-En este nuevo post, os dejo unos consejos para cuidar tu Euphorbia pulcherrima, o popularmente conocida como **flor de pascua** o Poinsetia, estas Navidades.
+En este nuevo post, os dejo unos consejos para cuidar tu _Euphorbia pulcherrima_, o popularmente conocida como **flor de pascua** o Poinsetia, estas Navidades.
 
 Si hay una planta que se asocie con la **Navidad**, esta es sin duda la flor de pascua. Esta planta tiene sus orígenes en Centro-América, florece de Diciembre a Febrero y puede llegar a alcanzar hasta 4 metros de altura.
 Aunque el color más popupar en navidad es el rojo, en la actualidad puedes conseguirlas en color salmón, rosa claro y blanco, o incluso de dos colores en la misma flor.
 
 ![Como cuidar la Flor de Pascua](/assets/images/posts/flor-de-pascua-colores.jpg)
 
-Es cierto, que un cuidado inapropiado de esta planta hace que muera muy pronto, pero si sigues estos **trucos de como cuidar tu flor de pascua**, puede que te dure uno o dos meses en tu casa:
+Es cierto, que un cuidado inapropiado de esta planta hace que muera muy pronto, pero si sigues estos **consejos de como cuidar tu flor de pascua**, puede que te dure uno o dos meses en tu casa:
 
 - Es una planta de interior y su temperarura ideal esta entre 17 y 20 grados, por la tanto evita ponerla cerca de un radiador o calefactor.
 - Debe estar un lugar de la casa donde haya luz (no en un baño, por ejemplo), pero que no le de la luz directa del sol.
