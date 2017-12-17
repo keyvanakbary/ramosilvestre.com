@@ -29,8 +29,8 @@ Muchos podéis pensar que una vez se acaba la temporada de la flor de pascua, la
 - Pon la planta en un lugar frío y seco.
 - Riégala muy poco, cada quince días.
 - Cuando llegue el mes de **Mayo**, empezarás a ver pequeños brotes.
-- Entonces, transplanta la planta a un macetero grande, y ponla en un sitio cálido. En verano puede estar fuera en un patio o terraza.
-- Durante los meses cálidos riégala más frecuentemnete, cuando veas la tierra seca.
+- Entonces, transplanta la planta a un macetero grande, y ponla en un sitio cálido.
+- Durante los meses cálidos riégala más frecuentemente, cuando veas la tierra seca.
 
 Y cuando la temporada vuelva a llegar, verás crecer tu flor de pascua de nuevo, **¡Inténtalo!**
 
