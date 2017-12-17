@@ -2,7 +2,7 @@
 layout: post
 title: Cómo cuidar la Flor de Pascua
 image: /assets/images/posts/flor-de-pascua.jpg
-description: Cuidar flor de pascua
+description: Cuidar la flor de pascua
 tags:
   - Flores
   - Plantas
