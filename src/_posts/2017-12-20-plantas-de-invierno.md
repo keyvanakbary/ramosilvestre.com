@@ -37,6 +37,14 @@ _**Pensamientos**_
 Los pensamientos son unas plantas con una forma muy divertida y que lucen muy vistosas en maceteros cerca de las ventanas por ejemplo. Las puedes encontrar en infinitos colores. Con estas plantas darás al lugar donde las pongas mucho colorido y brillo.
 
 
+_**Narcisos**_
+
+![Plantas de invierno](/assets/images/posts/planta-invierno-5.jpg)
+
+Estas plantas son bulbos que encontrarás en cualquier sitio de flores y plantas. Son muy económicos, con una fragancia fuerte, los tienes en blanco y amarillo y de diferentes tamaños tanto de altura como el tamaño de la cabeza de la flor.
+
+
+
 
 
 
