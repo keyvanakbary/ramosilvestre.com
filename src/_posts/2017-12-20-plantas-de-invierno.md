@@ -20,7 +20,7 @@ tags:
   
  ![Plantas de invierno](/assets/images/posts/planta-invierno-2.jpg)
   
-  Esta planta es una de las más populares en invierno ya que las puedes encontrar en cualquier floristería o tienda de jardinería. Son muy resistentes, las tienes en rosa fucsia, rosa pastel, púrpura y blancas.
+Esta planta es una de las más populares en invierno ya que las puedes encontrar en cualquier floristería o tienda de jardinería. Son muy resistentes, las tienes en rosa fucsia, rosa pastel, púrpura y blancas.
   
   
 _**Ciclamen**_
@@ -29,7 +29,15 @@ _**Ciclamen**_
 
 El cliclamen es una de las reinas del invierno. Florecen desde el otoño hasta la primavera. Las puedes plantar o poner en un macetero con otras plantas de temporada. Desprenden un rico aroma dulce y las tienes en múltiples colores como rojo, blanco, rosa, violeta etc.
 
-_**Ciclamen**_
+
+_**Pensamientos**_
+
+![Plantas de invierno](/assets/images/posts/planta-invierno-4.jpg)
+
+Los pensamientos son unas plantas con una forma muy divertida y que lucen muy vistosas en maceteros cerca de las ventanas por ejemplo. Las puedes encontrar en infinitos colores. Con estas plantas darás al lugar dond elas pongas mucho colorido y brillo.
+
+
+
 
 
   
