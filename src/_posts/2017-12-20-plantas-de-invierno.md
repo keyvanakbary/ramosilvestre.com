@@ -51,7 +51,7 @@ _**Helleborus**_
 Para mi, el Helleborus es la **planta mágica del invierno**. También se la conoce como Rosa de Navidad. Esta planta es increíblemente fuerte resistiendo nevadas y heladas. Los colores en los que florece son muy especiales y elegantes a mi gusto, como el color vino oscuro casi negro, rosa pálido, rojo casi rosado, blanco verdoso... es mi planta preferida de todas.
 
 
-Estos son unos pocos ejemplos de la gran variedad de plantas de invierno que existen. Muy buenas opciones también son los bulbos como los tulipanes y jacintos, o las plantas de iris o clematis.
+Estos son unos pocos ejemplos de la gran variedad de plantas de invierno que existen. Muy buenas opciones también son los bulbos como los **tulipanes y jacintos**, o las plantas de iris o clematis.
 
 
 **¡Espero que os haya ayudado a elegir vuestras plantas de invierno!**
