@@ -34,7 +34,7 @@ _**Pensamientos**_
 
 ![Plantas de invierno](/assets/images/posts/planta-invierno-4.jpg)
 
-Los pensamientos son unas plantas con una forma muy divertida y que lucen muy vistosas en maceteros cerca de las ventanas por ejemplo. Las puedes encontrar en infinitos colores. Con estas plantas darás al lugar dond elas pongas mucho colorido y brillo.
+Los pensamientos son unas plantas con una forma muy divertida y que lucen muy vistosas en maceteros cerca de las ventanas por ejemplo. Las puedes encontrar en infinitos colores. Con estas plantas darás al lugar donde las pongas mucho colorido y brillo.
 
 
 
