@@ -17,6 +17,7 @@ tags:
  Todas ellas resisten el frío y las heladas.
  
   _**Brezo**_
+  
   ![Plantas de invierno](/assets/images/posts/planta-invierno-2.jpg)
   
   Esta planta es una de las más populares en invierno ya que las puedes encontrar en cualquier floristería o tienda de jardinería. Son muy resistentes, las tienes en rosa fucsia, rosa pastel, púrpura y blancas.
