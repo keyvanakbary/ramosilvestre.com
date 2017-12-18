@@ -27,6 +27,10 @@ _**Ciclamen**_
 
 ![Plantas de invierno](/assets/images/posts/planta-invierno-3.jpg)
 
+El cliclamen es una de las reinas del invierno. Florecen desde el otoño hasta la primavera. Las puedes plantar o poner en un macetero con otras plantas de temporada. Desprenden un rico aroma dulce y las tienes en múltiples colores como rojo, blanco, rosa, violeta etc.
+
+_**Ciclamen**_
+
 
   
 
