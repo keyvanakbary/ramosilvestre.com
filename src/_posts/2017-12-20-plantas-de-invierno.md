@@ -44,6 +44,17 @@ _**Narcisos**_
 Estas plantas son bulbos que encontrarás en cualquier sitio de flores y plantas. Son muy económicos, con una fragancia fuerte, los tienes en blanco y amarillo y de diferentes tamaños tanto de altura como el tamaño de la cabeza de la flor.
 
 
+_**Helleborus**_
+
+![Plantas de invierno](/assets/images/posts/planta-invierno-6.jpg)
+
+Para mi, el Helleborus es la **planta mágica del invierno**. También se la conoce como Rosa de Navidad. Esta planta es increíblemente fuerte resistiendo nevadas y heladas. Los colores en los que florece son muy especiales y elegantes a mi gusto, como el color vino oscuro casi negro, rosa pálido, rojo casi rosado, blanco verdoso... es mi planta preferida de todas.
+
+
+Estos son unos pocos ejemplos de la gran variedad de plantas de invierno que existen. Muy buenas opciones también son los bulbos como los tulipanes y jacintos, o las plantas de iris o clematis.
+
+
+**¡Espero que os haya ayudado a elegir vuestras plantas de invierno!**
 
 
 
