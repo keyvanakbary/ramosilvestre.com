@@ -5,8 +5,8 @@
     <description></description>
     <link></link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Dec 2017 18:26:29 +0000</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2017 18:26:29 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Dec 2017 18:35:05 +0000</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2017 18:35:05 +0000</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
@@ -51,6 +51,33 @@ Aunque el color más popular en navidad es el rojo, en la actualidad puedes cons
         <category>Cuidados de plantas</category>
         
         <category>Navidad</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mi Articulo</title>
+        <description>&lt;p&gt;layout: post
+title: Plantas de invierno
+image: /assets/images/posts/flor-de-pascua.jpg
+description: Plantas de invierno
+tags:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Flores&lt;/li&gt;
+  &lt;li&gt;Plantas&lt;/li&gt;
+  &lt;li&gt;Cuidados de plantas&lt;/li&gt;
+  &lt;li&gt;Invierno&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;El invierno es una temporada en al cual mucha gente no se anima a tener &lt;strong&gt;plantas de exterior&lt;/strong&gt; porque pueden ser difíciles de cuidar, debido a las bajas temperaturas, el viento, las tormentas etc. Pero existe una gran variedad de plantas que puedes poner en el exterior durante el invierno que te soprenderán por lo resistentes y fuertes que son a las inclemencias del tiempo.
+  Ten bonito tu &lt;strong&gt;balcón, terraza o patio en invierno&lt;/strong&gt; con estas plantas que te resumo a continuación. Hay bastantes, pero he seleccionado unas cuantas &lt;strong&gt;plantas de invierno&lt;/strong&gt; por su belleza, resistencia y aroma.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Brezo&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+        <link>/blog/mi-articulo</link>
+        <guid isPermaLink="true">/blog/mi-articulo</guid>
         
         
       </item>
