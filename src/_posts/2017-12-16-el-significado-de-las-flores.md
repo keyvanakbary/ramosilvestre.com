@@ -25,7 +25,7 @@ Lo primero que debes decirle al florista es para que **ocasión es tu ramo de fl
 
 #### Colores
 
-A veces se confunden términos, y los clientes explican que quieren un 'ramo de verano', y en su mente están colores como el rojo y amarillo, por ejemplo. Pero para un florista decir 'ramo de verano' significa usar flores de la temporada de verano, que no tienen porque ser rojas o amarillas, y puede crear un ramo que no acierte con lo que el cliente tiene en mente. Por lo tanto, cuando expliques como te gustaría el ramo siempre concreta que **colores** te gustan, dejando a un lado términos como 'ramo de invierno, ramo de verano'. Especifíca y di: me gustaría un ramo alegre, con colores cálidos como el naranja, rojo y amarillo. Con esto no habrá dudas, y el ramo será tal y como tu quieres.
+A veces se confunden términos, y los clientes explican que quieren un 'ramo de verano', y en su mente están colores como el rojo y amarillo, por ejemplo. Pero para un florista decir 'ramo de verano' significa usar flores de la temporada de verano, que no tienen porque ser rojas o amarillas y puede crear un ramo que no acierte con lo que el cliente tiene en mente. Por lo tanto, cuando expliques como te gustaría el ramo siempre concreta que **colores** te gustan, dejando a un lado términos como 'ramo de invierno, ramo de verano'. Especifíca y di: me gustaría un ramo alegre, con colores cálidos como el naranja, rojo y amarillo. Con esto no habrá dudas, y el ramo será tal y como tu quieres.
 
 
 
@@ -34,10 +34,10 @@ A veces se confunden términos, y los clientes explican que quieren un 'ramo de 
 
 Por último, os voy a deficnir 4 conceptos para que los tengáis claros y podáis usarlos a la hora de **comprar tu ramo de flores:**
 
-_**Clásico**_ : Este ramo consistiría en usar **flores tradicionales** como rosas, lirios, cristantemos etc. Su forma es compacta y redonda, y son muy usados para ocasiones especiales como aniversarios, porque son ramos románticos con muchas flores que transmiten un toque 'distinguido y caro'. Este ramo es ideal para personas clásicas o románticas.
+_**Clásico**_ : Este ramo consistiría en usar **flores tradicionales** como rosas, lirios, cristantemos etc. Su forma es compacta y redonda y son muy usados para ocasiones especiales como aniversarios, porque son ramos románticos con muchas flores que transmiten un toque 'distinguido y caro'. Este ramo es ideal para personas clásicas o románticas.
 
 
-_**Estilo silvestre**_ : Como muchos sabréis, este estilo es uno de mis favoritos. Consiste en una ramo natural, que evoque a la **naturaleza**, usando diferentes tipos de verdes y hojas y flores silvestres. La forma del ramo es irregular (es decir, no es un ramo compacto), y lo recomiendo para personas que les guste mucho el campo y un estilo de vida más desenfadado.
+_**Estilo silvestre**_ : Como muchos sabréis, este estilo es uno de mis favoritos. Consiste en una ramo natural, que evoque a la **naturaleza**, usando diferentes tipos de verdes y hojas y flores silvestres. La forma del ramo es irregular (es decir, no es un ramo compacto) y lo recomiendo para personas que les guste mucho el campo y un estilo de vida más desenfadado.
 
 
 _**Estilo contemporáneo**_ : Este estilo es poco usual, por eso es un **ramo especial y arriesgado** en el que no se usa mucho verde, usando normalmente una sola gama de color (por ejemplo, un ramo solo en tonos rojos), usando flores poco usuales, como asiáticas o tropicales, y materiales modernos como troncos, plumas o incluso frutas. Este ramo lo recomiendo para personas que sabes muy concretamente que tienen gustos diferentes a los habituales y que tienen un estilo de vida más 'artístico'.
