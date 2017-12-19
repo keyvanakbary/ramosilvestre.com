@@ -30,7 +30,7 @@ A veces se confunden términos, y los clientes explican que quieren un 'ramo de 
 
 
 
-#### Estilo
+### Estilo
 
 Por último, os voy a deficnir 4 conceptos para que los tengáis claros y podási usarlo a la ora de **comprar tu ramo de flores:**
 
