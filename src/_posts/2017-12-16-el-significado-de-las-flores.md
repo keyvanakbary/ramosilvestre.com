@@ -53,10 +53,10 @@ _**Estilo corporativo**_
 Yo definiría este estilo de ramo como **simple, sencillo y clásico**. Es un ramo que su función consiste en enviar un detalle  a personas que no conoces mucho, del entorno laboral para dar las gracias por una reunión, un trato cerrado o el éxito de algún negocio. Se podría considerar dentro del estilo clásico arriba mencionado, pero elimando la parte sentimental y romántica que evoca un ramo de rosas rojas, por ejemplo. Por la tanto es un ramo sencillo, con flores habituales en floristerías que no denoten ideas confusas y sea bonito, perfecto para un regalo. Este puede ser **el más dificl de hacer**, por lo tanto dile a tu florita que quieres un ramo corporativo, y deja en sus manos la decisión de elegir las flores, él sabrá que hacer.
 
 
-![Significado de las flores](/assets/images/posts/significado-de-las-flores.jpg)
+
 
 Por la tanto, teniendo en cuenta estas pautas no puede haber error a la hora de **elegir tu ramo de flores perfecto**.
-Para resumir todo lo explicado, cuando vayas a la floristería, un ejemplo sería: Desearía comprar un ramo de flores para el cumpleaños de mi madre (ocasión), en tonos rosas y blancos (colores) y que sea clásico (estilo). Con esto, acertarás y la compra será rápida y sencilla. **¡Ah, casi se me olvida!** Es fundamental que tengas claro que el ramo que vas a comprar debe coincidir con los gustos de la persona a la que va dirigida el ramo, **no con tus propios gustos**. Esto a veces se confunde y es un error habitual, que a ti no te gusten las rosas no significa que a la persona que le compras el ramo le encanten. =)
+Para resumir todo lo explicado, cuando vayas a la floristería, un ejemplo sería: Desearía comprar un ramo de flores para el cumpleaños de mi madre (ocasión), en tonos rosas y blancos (colores) y que sea clásico (estilo). Con esto, acertarás y la compra será rápida y sencilla. **¡Ah, casi se me olvida!** Es fundamental que tengas claro que el ramo que vas a comprar debe coincidir con los gustos de la persona a la que va dirigida el ramo, **no con tus propios gustos**. Esto a veces se confunde y es un error habitual, que a ti no te gusten las rosas no significa que a la persona que le compras el ramo le encanten.=)
 
 
 **¡Espero que os ayude!** Echa un ojo a mi galería de Instagram, y verás diferentes ejemplos que te pueden inspirar.
