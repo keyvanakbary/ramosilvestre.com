@@ -9,7 +9,7 @@ tags:
   - Consejos
 ---
 
-Algunos de vosotros os habréis encontrado en alguna ocasión hablando con un florista o dependiente e intentado expicarles que ramo es el que quieres comprar. Contándole un poco para quien es, la ocasión para lo que lo quieres, tus gustos etc. A veces se hace un poco tedioso porque el florista puede no enterderte bien, o lo que tu intentas explicar no se corresponde con el **significado de las flores**, ya que para lo que a tí es clásico para otro puede ser contemporáneo, por poner un caso.
+Algunos de vosotros os habréis encontrado en alguna ocasión hablando con un florista o dependiente e intentado expicarles que ramo es el que quieres comprar. Contándole un poco para quien es, la ocasión para lo que lo quieres, tus gustos etc. A veces se hace un poco tedioso porque el florista puede no enterderte bien, o lo que tu intentas explicar no se corresponde con el **significado de las flores**, ya que lo que para tí es clásico para otro puede ser contemporáneo, por poner un caso.
 
 En este post os voy a contar, según mi experiencia de florista y en atención al cliente, unas pequeñas pautas para **comprar un ramo de flores de manera adecuada**, teniendo en cuenta unos requisitos y así triunfes con tu compra, porque no quieres enviar un ramo romántico a un compañero de trabajo, por ejemplo. ;)
 
@@ -30,15 +30,29 @@ Por último, os voy a deficnir 4 conceptos para que los tengáis claros y podás
 
 __Clásico__
 
-Este ramo consistiría en usar flores tradicionales como rosas, lirios, cristantemos etc. Su forma es compacta y redonda, y son muy usados para ocasiones especiales como aniversarios, porque son ramos románticos con muchas flores que transmmiten un toque 'distinguido y caro'. Este ramo es ideal personas más clásicas y sencillas.
+Este ramo consistiría en usar **flores tradicionales** como rosas, lirios, cristantemos etc. Su forma es compacta y redonda, y son muy usados para ocasiones especiales como aniversarios, porque son ramos románticos con muchas flores que transmmiten un toque 'distinguido y caro'. Este ramo es ideal personas más clásicas y sencillas.
 
 
 __Estilo silvestre__
 
-Como muchos sabréis, este estilo es uno de mis favoritos. Consiste en una ramo natural, que evoque a la naturaleza, usando diferentes tipos de verdes y hojas y flores silvestres. La forma del ramo es irregular (es decir, no es un ramo compacto), y lo recomiendo para personas que les guste mucho la naturaleza y un estilo de vida más desenfadado.
+Como muchos sabréis, este estilo es uno de mis favoritos. Consiste en una ramo natural, que evoque a la **naturaleza**, usando diferentes tipos de verdes y hojas y flores silvestres. La forma del ramo es irregular (es decir, no es un ramo compacto), y lo recomiendo para personas que les guste mucho la naturaleza y un estilo de vida más desenfadado.
 
 
 __Estilo contemporáneo__
+
+Este estilo es poco usual, por eso es **ramo especial y arriesgado** en el que no se usa mucho verde, usando normalmnete una sola gama de color (por ejemplo, un ramo solo en tonos rojos), usando flores poco usuales, como asiáticas o tropicales, y materiales modernos como troncos, plumas o incluso frutas. Este ramo lo recomiendo para personas que sabes muy concretamente que tienen gustos diferentes a los habituales y que tienen un estilo de vida más 'artístico'.
+
+
+__Estilo corpoativo__
+
+Yo definiría este estilo de ramo como **simple, sencillo y clásico**. Es un ramo que su función consite en enviar un detalle  a perosnas que no conoces mucho, del entorno laboral para dar las gracias por una reunión, un trato cerrado o el éxito de algún negocio. Se podría considerar dentro del estilo clásico arriba mencionado, pero elimnado la parate sentimental y romántica que evoca un ramo de rosas rojas. Por la tanto es un ramo sencillo, con flores habitaules en floisterias que no denoten ideas confusas y sea bonito, perfecto para un regalo. Este puede ser el más dificl de hacer, por lo tanto dile a tu florita que quieres un ramo corporativo, y deja en sus manos la decisión de elgir las flroes, él sabrá que elegir.
+
+
+
+Por la tanto, teniendo en cuenta estas pautas no puede haber error a la hora de **elegir tu ramo de flores perfecto**.
+Para resumir todo lo explicado, cuando vayas a la floristería, un ejemplo sería: Desearía comprar un ramo para el cumpleaños de mi madre (ocasión), en tonos rosas y blancos (colores) y que sea clásico (estilo). Con esto, acertarás y la compra será rápida y sencilla.
+
+**¡Espero que os ayude!**
 
 
 
