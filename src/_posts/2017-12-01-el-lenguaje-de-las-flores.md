@@ -5,6 +5,7 @@ image: /assets/images/posts/ramodeflores.jpg
 description: El lenguaje de las flores
 tags:
   - Flores
+  - Regalos
 ---
 
-Mi contenido.
+![Lenguaje de las flores](/assets/images/posts/lenguaje-de-las-flores.jpg)
