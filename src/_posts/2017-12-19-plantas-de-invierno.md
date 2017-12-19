@@ -25,7 +25,7 @@ Esta planta es una de las más populares en invierno ya que las puedes encontrar
 
 ### Ciclamen
 
-![Plantas de invierno](/assets/images/posts/planta-invierno-ciclamen.jpg)
+![Plantas de invierno](/assets/images/posts/planta-invierno-cliclamen.jpg)
 
 El cliclamen es una de las reinas del invierno. Florecen desde el otoño hasta la primavera. Las puedes plantar o poner en un macetero con otras plantas de temporada. Desprenden un rico aroma dulce y las tienes en múltiples colores como rojo, blanco, rosa, violeta etc.
 
