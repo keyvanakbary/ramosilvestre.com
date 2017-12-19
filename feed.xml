@@ -5,8 +5,8 @@
     <description></description>
     <link></link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Dec 2017 15:02:30 +0000</pubDate>
-    <lastBuildDate>Tue, 19 Dec 2017 15:02:30 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Dec 2017 15:03:25 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Dec 2017 15:03:25 +0000</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
@@ -62,6 +62,8 @@
         <category>Cuidados de plantas</category>
         
         <category>Invierno</category>
+        
+        <category>Consejos</category>
         
         
       </item>
