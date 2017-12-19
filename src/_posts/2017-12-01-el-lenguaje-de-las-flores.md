@@ -50,7 +50,7 @@ Yo definiría este estilo de ramo como **simple, sencillo y clásico**. Es un ra
 
 
 Por la tanto, teniendo en cuenta estas pautas no puede haber error a la hora de **elegir tu ramo de flores perfecto**.
-Para resumir todo lo explicado, cuando vayas a la floristería, un ejemplo sería: Desearía comprar un ramo para el cumpleaños de mi madre (ocasión), en tonos rosas y blancos (colores) y que sea clásico (estilo). Con esto, acertarás y la compra será rápida y sencilla.
+Para resumir todo lo explicado, cuando vayas a la floristería, un ejemplo sería: Desearía comprar un ramo para el cumpleaños de mi madre (ocasión), en tonos rosas y blancos (colores) y que sea clásico (estilo). Con esto, acertarás y la compra será rápida y sencilla. **¡Ah, casi se me olvida!** Es fundamnetal que tengas claro que el ramo que vas a comprar debe coincidir con los gusto de la persona a la que va dirigida el ramo, no con tus gustos propios. Esto a veces se confunde y es un error habitual, que a ti no te gusten las rosas no signfica que a la perosna que le compras el ramo le encanten. =)
 
 **¡Espero que os ayude!**
 
