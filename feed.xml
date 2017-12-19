@@ -5,8 +5,8 @@
     <description></description>
     <link></link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Dec 2017 12:38:27 +0000</pubDate>
-    <lastBuildDate>Tue, 19 Dec 2017 12:38:27 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Dec 2017 12:39:26 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Dec 2017 12:39:26 +0000</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
@@ -114,13 +114,15 @@ Aunque el color más popular en navidad es el rojo, en la actualidad puedes cons
     
       <item>
         <title>El lenguaje de las flores</title>
-        <description>&lt;p&gt;Mi contenido.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/posts/lenguaje-de-las-flores.jpg&quot; alt=&quot;Lenguaje de las flores&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
         <link>/blog/el-lenguaje-de-las-flores</link>
         <guid isPermaLink="true">/blog/el-lenguaje-de-las-flores</guid>
         
         <category>Flores</category>
+        
+        <category>Regalos</category>
         
         
       </item>
