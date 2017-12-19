@@ -8,6 +8,7 @@ tags:
   - Plantas
   - Cuidados de plantas
   - Invierno
+  - Consejos 
 ---
 
  El invierno es una temporada en la cual mucha gente no se anima a tener **plantas de exterior** porque pueden ser difíciles de cuidar, debido a las bajas temperaturas, el viento, las tormentas etc. Pero existe una gran variedad de plantas que puedes poner en el exterior durante el invierno que te soprenderán por lo resistentes y fuertes que son a las inclemencias del tiempo.
