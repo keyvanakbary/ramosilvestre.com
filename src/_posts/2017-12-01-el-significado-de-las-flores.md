@@ -13,7 +13,7 @@ Algunos de vosotros os habréis encontrado en alguna ocasión hablando con un fl
 
 En este post os voy a contar, según mi experiencia de florista y en atención al cliente, unas pequeñas pautas para **comprar un ramo de flores de manera adecuada**, teniendo en cuenta unos requisitos y así triunfes con tu compra, porque no quieres enviar un ramo romántico a un compañero de trabajo, por ejemplo. ;)
 
-![Cuidar flores](/assets/images/posts/significado-de-las-flores.jpg)
+![Significado de las flores](/assets/images/posts/significado-de-las-flores.jpg)
 
 ### La ocasión
 
