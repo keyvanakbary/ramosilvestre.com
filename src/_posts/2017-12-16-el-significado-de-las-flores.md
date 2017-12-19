@@ -46,7 +46,7 @@ _**Estilo contemporáneo**_: Este estilo es poco usual, por eso es un **ramo esp
 _**Estilo corporativo**_:Yo definiría este estilo de ramo como **simple, sencillo y clásico**. Es un ramo que su función consiste en enviar un detalle  a personas que no conoces mucho, del entorno laboral para dar las gracias por una reunión, un trato cerrado o el éxito de algún negocio. Se podría considerar dentro del estilo clásico arriba mencionado, pero elimando la parte sentimental y romántica que evoca un ramo de rosas rojas, por ejemplo. Por la tanto es un ramo sencillo, con flores habituales en floristerías que no denoten ideas confusas y sea bonito, perfecto para un regalo. Este puede ser **el más dificl de hacer**, por lo tanto dile a tu florita que quieres un ramo corporativo, y deja en sus manos la decisión de elegir las flores, él sabrá que hacer.
 
 
-
+![Significado de las flores](/assets/images/posts/significado-de-las-flores-2.jpg) 
 
 
 **RESUMEN:** Teniendo en cuenta estas pautas no puede haber error a la hora de **elegir tu ramo de flores perfecto**.
