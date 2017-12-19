@@ -36,22 +36,22 @@ Por último, os voy a deficnir 4 conceptos para que los tengáis claros y podás
 
 _**Clásico**_
 
-Este ramo consistiría en usar **flores tradicionales** como rosas, lirios, cristantemos etc. Su forma es compacta y redonda, y son muy usados para ocasiones especiales como aniversarios, porque son ramos románticos con muchas flores que transmmiten un toque 'distinguido y caro'. Este ramo es ideal personas clásicas.
+Este ramo consistiría en usar **flores tradicionales** como rosas, lirios, cristantemos etc. Su forma es compacta y redonda, y son muy usados para ocasiones especiales como aniversarios, porque son ramos románticos con muchas flores que transmiten un toque 'distinguido y caro'. Este ramo es ideal personas clásicas.
 
 
-_**#Estilo silvestre**_
+_**Estilo silvestre**_
 
-Como muchos sabréis, este estilo es uno de mis favoritos. Consiste en una ramo natural, que evoque a la **naturaleza**, usando diferentes tipos de verdes y hojas y flores silvestres. La forma del ramo es irregular (es decir, no es un ramo compacto), y lo recomiendo para personas que les guste mucho la naturaleza y un estilo de vida más desenfadado.
+Como muchos sabréis, este estilo es uno de mis favoritos. Consiste en una ramo natural, que evoque a la **naturaleza**, usando diferentes tipos de verdes y hojas y flores silvestres. La forma del ramo es irregular (es decir, no es un ramo compacto), y lo recomiendo para personas que les guste mucho el campo y un estilo de vida más desenfadado.
 
 
-_**#Estilo contemporáneo**_
+_**Estilo contemporáneo**_
 
 Este estilo es poco usual, por eso es un **ramo especial y arriesgado** en el que no se usa mucho verde, usando normalmente una sola gama de color (por ejemplo, un ramo solo en tonos rojos), usando flores poco usuales, como asiáticas o tropicales, y materiales modernos como troncos, plumas o incluso frutas. Este ramo lo recomiendo para personas que sabes muy concretamente que tienen gustos diferentes a los habituales y que tienen un estilo de vida más 'artístico'.
 
 
-_**#Estilo corporativo**_
+_**Estilo corporativo**_
 
-Yo definiría este estilo de ramo como **simple, sencillo y clásico**. Es un ramo que su función consiste en enviar un detalle  a personas que no conoces mucho, del entorno laboral para dar las gracias por una reunión, un trato cerrado o el éxito de algún negocio. Se podría considerar dentro del estilo clásico arriba mencionado, pero elimando la parte sentimental y romántica que evoca un ramo de rosas rojas, por ejemplo. Por la tanto es un ramo sencillo, con flores habituales en floristerías que no denoten ideas confusas y sea bonito, perfecto para un regalo. Este puede ser **el más dificl de hacer**, por lo tanto dile a tu florita que quieres un ramo corporativo, y deja en sus manos la decisión de elegir las flroes, él sabrá que hacer.
+Yo definiría este estilo de ramo como **simple, sencillo y clásico**. Es un ramo que su función consiste en enviar un detalle  a personas que no conoces mucho, del entorno laboral para dar las gracias por una reunión, un trato cerrado o el éxito de algún negocio. Se podría considerar dentro del estilo clásico arriba mencionado, pero elimando la parte sentimental y romántica que evoca un ramo de rosas rojas, por ejemplo. Por la tanto es un ramo sencillo, con flores habituales en floristerías que no denoten ideas confusas y sea bonito, perfecto para un regalo. Este puede ser **el más dificl de hacer**, por lo tanto dile a tu florita que quieres un ramo corporativo, y deja en sus manos la decisión de elegir las flores, él sabrá que hacer.
 
 
 ![Significado de las flores](/assets/images/posts/significado-de-las-flores-2.jpg)
@@ -59,9 +59,9 @@ Yo definiría este estilo de ramo como **simple, sencillo y clásico**. Es un ra
 
 
 Por la tanto, teniendo en cuenta estas pautas no puede haber error a la hora de **elegir tu ramo de flores perfecto**.
-Para resumir todo lo explicado, cuando vayas a la floristería, un ejemplo sería: Desearía comprar un ramo para el cumpleaños de mi madre (ocasión), en tonos rosas y blancos (colores) y que sea clásico (estilo). Con esto, acertarás y la compra será rápida y sencilla. **¡Ah, casi se me olvida!** Es fundamental que tengas claro que el ramo que vas a comprar debe coincidir con los gustos de la persona a la que va dirigida el ramo, no con tus propios gustos. Esto a veces se confunde y es un error habitual, que a ti no te gusten las rosas no significa que a la persona que le compras el ramo le encanten. =)
+Para resumir todo lo explicado, cuando vayas a la floristería, un ejemplo sería: Desearía comprar un ramo de flores para el cumpleaños de mi madre (ocasión), en tonos rosas y blancos (colores) y que sea clásico (estilo). Con esto, acertarás y la compra será rápida y sencilla. **¡Ah, casi se me olvida!** Es fundamental que tengas claro que el ramo que vas a comprar debe coincidir con los gustos de la persona a la que va dirigida el ramo, **no con tus propios gustos**. Esto a veces se confunde y es un error habitual, que a ti no te gusten las rosas no significa que a la persona que le compras el ramo le encanten. =)
 
 
-**¡Espero que os ayude!** Echa un ojo a mi galería de Instagram, y verás diferentes ejemplos que te puedan inspirar.
+**¡Espero que os ayude!** Echa un ojo a mi galería de Instagram, y verás diferentes ejemplos que te pueden inspirar.
 
 
