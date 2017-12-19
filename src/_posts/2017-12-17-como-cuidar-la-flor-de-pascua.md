@@ -8,6 +8,7 @@ tags:
   - Plantas
   - Cuidados de plantas
   - Navidad
+  - Consejos 
 ---
 
 En este artículo, os dejo unos consejos para cuidar tu _Euphorbia pulcherrima_, o popularmente conocida como **flor de pascua** o Poinsetia.
