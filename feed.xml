@@ -5,8 +5,8 @@
     <description></description>
     <link></link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Dec 2017 14:59:45 +0000</pubDate>
-    <lastBuildDate>Tue, 19 Dec 2017 14:59:45 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Dec 2017 15:01:35 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Dec 2017 15:01:35 +0000</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
@@ -198,6 +198,8 @@ Cuando vayas a la floristería, un &lt;strong&gt;ejemplo sería:&lt;/strong&gt; 
         <category>Decoracion</category>
         
         <category>Cuidados</category>
+        
+        <category>Consejos</category>
         
         
       </item>
