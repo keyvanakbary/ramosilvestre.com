@@ -5,6 +5,7 @@ tags:
   - Secar flores
   - Flores
   - Decoracion
+  - Consejos 
 
 description: Secar ramo de flores
 image: /assets/images/posts/secar-flores.jpg
