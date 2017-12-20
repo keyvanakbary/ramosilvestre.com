@@ -55,7 +55,6 @@ Cuando vayas a la floristería, un **ejemplo sería:** Desearía comprar un ramo
 **¡Ah, casi se me olvida!** Es fundamental que tengas claro que el ramo que vas a comprar debe coincidir con los gustos de la persona a la que va dirigida el ramo, **no con tus propios gustos**. Esto a veces se confunde y es un error habitual, que a ti no te gusten las rosas no significa que a la persona que le compras el ramo le encanten, por ejemplo. =)
 
 
-**¡Espero que os ayude!** Echa un ojo a mi galería de Instagram, y verás diferentes ejemplos que te pueden inspirar.
-
-[Instagram MyWildBouquet](https://www.instagram.com/mywildbouquet/)
+**¡Espero que os ayude!** Echa un ojo a mi galería de Instagram, y verás diferentes ejemplos que te pueden inspirar ([Instagram MyWildBouquet](https://www.instagram.com/mywildbouquet/))o pinchando aquí para [aprender a cuidar tu ramo ]/blog/como-cuidar-un-ramo-de-flores)
+ 
 
