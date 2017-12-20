@@ -9,7 +9,7 @@ tags:
   - Consejos
 ---
 
-Algunos de vosotros os habréis encontrado en alguna ocasión hablando con un florista o dependiente e intentado explicarles qué ramo es el que queréis comprar. Contándoles un poco para quién es, la ocasión para lo que lo quieres, tus gustos etc. A veces se hace un poco tedioso porque el florista puede no enterderos bien, o lo que le intentáis explicar no se corresponde con el **estilo del ramo de flores**, ya que lo que para ti es clásico para otro puede ser contemporáneo, por poner un caso.
+Algunos de vosotros os habréis encontrado en alguna ocasión hablando con un florista o dependiente e intentado explicarles qué ramo es el que queréis comprar. Contándoles un poco para quién es, la ocasión para lo que lo quieres, tus gustos etc. A veces se hace un poco tedioso porque el florista puede no captar bien la esencia, o lo que le intentáis explicar no se corresponde con el **estilo del ramo de flores**, ya que lo que para ti es clásico para otro puede ser contemporáneo, por poner un caso.
 
 En este post os voy a contar, según mi experiencia de florista y en atención al cliente, unas pequeñas pautas para **comprar un ramo de flores de manera adecuada**, teniendo en cuenta unos requisitos y así triunféis con vuestra compra, porque no queréis enviar un ramo romántico a un compañero de trabajo, por ejemplo. ;)
 
@@ -37,7 +37,7 @@ Por último, os voy a definir 4 conceptos para que los tengáis claros y podáis
 _**Clásico**_: Este ramo consistiría en usar **flores tradicionales** como rosas, lirios, cristantemos etc. Su forma es compacta y redonda y son muy usados para ocasiones especiales como aniversarios, porque son ramos románticos con muchas flores que transmiten un toque 'distinguido y caro'. Este ramo es ideal para personas clásicas o románticas.
 
 
-_**Estilo silvestre**_: Como muchos sabréis, este estilo es uno de mis favoritos. Consiste en una ramo natural, que evoque a la **naturaleza**, usando diferentes tipos de verdes y hojas, y flores silvestres. La forma del ramo es irregular (es decir, no es un ramo compacto) y lo recomiendo para personas que les guste mucho el campo y un estilo de vida más desenfadado.
+_**Estilo silvestre**_: Como muchos sabréis, este estilo es uno de mis favoritos. Consiste en una ramo natural, que evoque a la **naturaleza**, usando diferentes tipos de verdes y hojas, y flores silvestres. La forma del ramo es irregular (es decir, no es un ramo compacto) y lo recomiendo para personas que les guste mucho el campo y un carácter más desenfadado.
 
 
 _**Estilo contemporáneo**_: Este estilo es poco usual, por eso es un **ramo especial y arriesgado** en el que no se usa mucho verde, usando normalmente una sola gama de color (por ejemplo, un ramo solo en tonos rojos), usando flores poco usuales, como asiáticas o tropicales, y materiales modernos como troncos, plumas o incluso frutas. Este ramo lo recomiendo para personas que sabes muy concretamente que tienen gustos diferentes a los habituales y que tienen un estilo de vida más 'artístico'.
