@@ -57,5 +57,5 @@ Cuando vayas a la floristería, un **ejemplo sería:** Desearía comprar un ramo
 
 **¡Espero que os ayude!** Echa un ojo a mi galería de Instagram, y verás diferentes ejemplos que te pueden inspirar.
 
-https://www.instagram.com/mywildbouquet/
+[Instagram MyWildBouquet](https://www.instagram.com/mywildbouquet/)
 
