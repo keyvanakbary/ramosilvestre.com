@@ -1,6 +1,6 @@
 ---
 layout: post
-title: El significado de las flores
+title: Estilos de ramo de flores
 image: /assets/images/posts/ramodeflores.jpg 
 description: Como comprar un ramo de flores
 tags:
