@@ -9,7 +9,7 @@ tags:
   - Consejos
 ---
 
-Algunos de vosotros os habréis encontrado en alguna ocasión hablando con un florista o dependiente e intentado explicarles que ramo es el que queréis comprar. Contándoles un poco para quien es, la ocasión para lo que lo quieres, tus gustos etc. A veces se hace un poco tedioso porque el florista puede no enterderos bien, o lo que le intentáis explicar no se corresponde con el **estilo del ramo de flores**, ya que lo que para ti es clásico para otro puede ser contemporáneo, por poner un caso.
+Algunos de vosotros os habréis encontrado en alguna ocasión hablando con un florista o dependiente e intentado explicarles que ramo es el que queréis comprar. Contándoles un poco para quién es, la ocasión para lo que lo quieres, tus gustos etc. A veces se hace un poco tedioso porque el florista puede no enterderos bien, o lo que le intentáis explicar no se corresponde con el **estilo del ramo de flores**, ya que lo que para ti es clásico para otro puede ser contemporáneo, por poner un caso.
 
 En este post os voy a contar, según mi experiencia de florista y en atención al cliente, unas pequeñas pautas para **comprar un ramo de flores de manera adecuada**, teniendo en cuenta unos requisitos y así triunféis con vuestra compra, porque no queréis enviar un ramo romántico a un compañero de trabajo, por ejemplo. ;)
 
