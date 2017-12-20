@@ -18,7 +18,7 @@ En este post os voy a contar, según mi experiencia de florista y en atención a
 
 #### La ocasión
 
-Lo primero que debes decirle al florista es para qué **ocasión es tu ramo de flores**. Esto es fundamental, ya que con esto el ramo ya está prácticamente definido. Si le explicas que es para un aniversario de bodas, para un amigo del trabajo o para tu hermana, el florista sabrá por donde empezar.
+Lo primero que debes explicarle al florista es para qué **ocasión es tu ramo de flores**. Esto es fundamental, ya que con esto el ramo ya está prácticamente definido. Si le explicas que es para un aniversario de bodas, para un amigo del trabajo o para tu hermana, el florista sabrá por donde empezar.
 
 
 
@@ -32,7 +32,7 @@ A veces se confunden términos, y los clientes explican que quieren un 'ramo de 
 
 #### Estilo
 
-Por último, os voy a definir 4 conceptos para que los tengáis claros y podáis usarlos a la hora de **comprar tu ramo de flores:**
+Por último, os voy a definir 4 conceptos para tu ramo de flores ideal y podáis usarlos a la hora de **comprar tu ramo de flores:**
 
 _**Clásico**_: Este ramo consistiría en usar **flores tradicionales** como rosas, lirios, cristantemos etc. Su forma es compacta y redonda y son muy usados para ocasiones especiales como aniversarios, porque son ramos románticos con muchas flores que transmiten un toque 'distinguido y caro'. Este ramo es ideal para personas clásicas o románticas.
 
