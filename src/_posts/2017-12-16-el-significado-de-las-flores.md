@@ -18,7 +18,7 @@ En este post os voy a contar, según mi experiencia de florista y en atención a
 
 #### La ocasión
 
-Lo primero que debes decirle al florista es para que **ocasión es tu ramo de flores**. Esto es fundamental, ya que con esto el ramo ya esta prácticamente definido. Si le explicas que es para un aniversario de bodas, para un amigo del trabajo o para tu hermana, el florista sabrá por donde empezar.
+Lo primero que debes decirle al florista es para que **ocasión es tu ramo de flores**. Esto es fundamental, ya que con esto el ramo ya está prácticamente definido. Si le explicas que es para un aniversario de bodas, para un amigo del trabajo o para tu hermana, el florista sabrá por donde empezar.
 
 
 
