@@ -5,8 +5,8 @@
     <description></description>
     <link></link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Dec 2017 18:47:40 +0000</pubDate>
-    <lastBuildDate>Wed, 20 Dec 2017 18:47:40 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Dec 2017 18:50:57 +0000</pubDate>
+    <lastBuildDate>Wed, 20 Dec 2017 18:50:57 +0000</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
@@ -153,7 +153,7 @@ Cuando vayas a la floristería, un &lt;strong&gt;ejemplo sería:&lt;/strong&gt; 
 
 &lt;p&gt;&lt;strong&gt;¡Espero que os ayude!&lt;/strong&gt; Echa un ojo a mi galería de Instagram, y verás diferentes ejemplos que te pueden inspirar.&lt;/p&gt;
 
-&lt;p&gt;https://www.instagram.com/mywildbouquet/&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/mywildbouquet/&quot;&gt;Instagram MyWildBouquet&lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 16 Dec 2017 00:00:00 +0000</pubDate>
