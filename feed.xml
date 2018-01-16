@@ -5,9 +5,22 @@
     <description></description>
     <link></link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Dec 2017 20:54:47 +0000</pubDate>
-    <lastBuildDate>Wed, 20 Dec 2017 20:54:47 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Jan 2018 17:04:56 +0000</pubDate>
+    <lastBuildDate>Tue, 16 Jan 2018 17:04:56 +0000</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
+    
+      <item>
+        <title>Tipos de rosas</title>
+        <description>&lt;p&gt;Mi contenido.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+        <link>/blog/tipos-de-rosas</link>
+        <guid isPermaLink="true">/blog/tipos-de-rosas</guid>
+        
+        <category>Flores</category>
+        
+        
+      </item>
     
       <item>
         <title>Plantas de invierno</title>
