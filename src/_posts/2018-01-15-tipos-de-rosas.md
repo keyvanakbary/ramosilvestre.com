@@ -15,7 +15,7 @@ Sería muy largo de definir los difrentes tipos de rosas que existen, pero aquí
 Con tantas variedades de rosas disponibles, ¿Cómo elegir tu favorita?. Echemos un vistazo a algunas de los más comunes explicando los tres grandes grupos que hay: las rosas antiguas, las rosas modernas/híbridos y las rosas silvestres.
 
 
-###Las rosas antiguas
+####Las rosas antiguas
 
 Son aquellas rosas que existen desde antes de 1867 y no han sufrido cambio alguno desde entonces. Son poco conocidas, pero son muy fuertes, fáciles de cultivar y cuidar, y además soportan mejor las enfermedades y plagas. 
 Solo florecen **una vez al año, al inicio del verano y desprenden una fuerte fragancia.**
