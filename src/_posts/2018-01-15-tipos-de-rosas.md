@@ -70,7 +70,7 @@ _**Rosa rugosa**_: Es una rosa poco conocida, es de origen asiático. Desprende 
 
 _**Rosal de Banksia**_: Estas rosas son las primeras en florecer, en primavera. Me gustan, porque aunque no tengan perfume, no tienen espinas, y son muy pequeñas y crecen en abundancia. Son increíblemente trepadoras y quedan preciosas en un jardín o patio.
 
-![Tipos de rosas](/assets/images/posts/significado-de-las-flores.jpg)
+![Tipos de rosas](/assets/images/posts/Rosal-Banksia.jpg)
 
 
 Voy hacer una mención especial a una rosa típica y muy popular aquí en Reino Unido: **Las rosas inglesas o Rosas de David Austin**
