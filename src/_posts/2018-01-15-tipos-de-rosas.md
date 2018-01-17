@@ -21,7 +21,7 @@ Son aquellas rosas que existen desde antes de 1867 y no han sufrido cambio algun
 Solo florecen **una vez al año, al inicio del verano y desprenden una fuerte fragancia.** Mis favoritas son:
 
 _**Rosa de Rescht**_: Sus flores muy perfumadas son fucsia, casi rojas, y sombreadas de lilas.
-![Significado de las flores](/assets/images/posts/significado-de-las-flores.jpg)
+![Significado de las flores](/assets/images/posts/Rosa-de-Rescht.jpg)
 
 _**Sempervirens**_: Son rosas dobles portadoras de numerosas flores y muy trepadoras. Lucen preciosas en arcos y pergolas.
 ![Significado de las flores](/assets/images/posts/significado-de-las-flores.jpg)
