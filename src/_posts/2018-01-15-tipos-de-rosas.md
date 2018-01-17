@@ -57,7 +57,7 @@ _**Rosas Grandiflora**_: Esta es una de las variedades más modernas. Combina la
 
 ### Especies silvestres de rosas
 
-Las rosas silvestres son aquellas que crecen sin ningún tipo de interferencia humana, que crecen salvajes y de las que descienden toda las demás rosas. Son muy resistentes, fáciles de mantaner y florecen una vez al año. Tienen 5 pétalos y los colores habituales suelen ser el rosa, el rojo y el blanco.
+Las rosas silvestres son aquellas que crecen sin ningún tipo de interferencia humana, que crecen salvajes y de las que descienden toda las demás rosas. Son muy resistentes, fáciles de mantaner y florecen una vez al año. Tienen 5 pétalos y los colores habituales suelen ser el rosa, el rojo y el blanco. Algunas de mis preferidas:
 
 _**Rosa mosqueta, Eglantina rosa**_: Es conocida por sus múltiples propiedades en la cosmética, pero además tiene una dulce fragancia y puede medir la planta hasta 2,5 metos de altura.
 
