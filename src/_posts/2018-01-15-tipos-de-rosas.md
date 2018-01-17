@@ -12,7 +12,7 @@ Las **rosas son unas de las flores más populares** que hay. Existen centenares 
 
 Sería muy largo de definir los diferentes tipos de rosas que existen, pero aquí os dejo un **resumen**, para aquellos que les encante esta flor (como a mí, en especial mi favorita, la rosa blanca Sempervirens) y quieran saber un poquito más sobre ellas.
 
-Con tantas variedades de rosas disponibles, ¿Cómo elegir tu favorita?. Echemos un vistazo a algunas de los más populares explicando los tres grandes grupos que hay: las rosas antiguas, las rosas modernas/híbridas y las rosas silvestres.
+Con tantas variedades de rosas disponibles, ¿Cómo elegir tu favorita?. Echemos un vistazo a algunas de las más populares explicando los tres grandes grupos que hay: las rosas antiguas, las rosas modernas/híbridas y las rosas silvestres.
 
 
 ### Las rosas antiguas
