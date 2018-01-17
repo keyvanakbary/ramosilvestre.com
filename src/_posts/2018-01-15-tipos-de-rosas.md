@@ -24,7 +24,7 @@ _**Rosa de Rescht**_: Sus flores muy perfumadas son fucsia, casi rojas, y sombre
 
 ![Tipos de rosas](/assets/images/posts/Rosa-de-Rescht.jpg)
 
-_**Sempervirens**_: Son rosas dobles portadoras de numerosas flores y muy trepadoras. Lucen preciosas en arcos y pergolas.
+_**Sempervirens**_: Son rosas dobles portadoras de numerosas flores y muy trepadoras. Lucen preciosas en arcos y pérgolas.
 
 ![Tipos de rosas](/assets/images/posts/Rosa-Sempervirens.jpg)
 
