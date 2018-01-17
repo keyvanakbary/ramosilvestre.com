@@ -18,7 +18,9 @@ Con tantas variedades de rosas disponibles, ¿Cómo elegir tu favorita?. Echemos
 #### Las rosas antiguas
 
 Son aquellas rosas que existen desde antes de 1867 y no han sufrido cambio alguno desde entonces. Son poco conocidas, pero son muy fuertes, fáciles de cultivar y cuidar, y además soportan mejor las enfermedades y plagas. 
-Solo florecen **una vez al año, al inicio del verano y desprenden una fuerte fragancia.**
+Solo florecen **una vez al año, al inicio del verano y desprenden una fuerte fragancia.** Las más conocidas son:
+
+_**Té**_: 
 
 
 
