@@ -68,18 +68,18 @@ _**Rosa rugosa**_: Es una rosa poco conocida, es de origen asiático. Desprende 
 ![Tipos de rosas](/assets/images/posts/Rosa-rugosa.jpg)
 
 
-_**Rosal de Banksia**_: Estas rosas son las primeras en florecer, en primavera. Me gustan, porque aunque no tengan perfume, no tienen espinas, y son muy pequeñas y crecen en abundancia. Son increíblemente trepadoras y quedan preciosas en un jardín o patio.
+_**Rosal de Banksia**_: Estas rosas son las primeras en florecer, en primavera. Me gustan, porque aunque no tengan perfume, no tienen espinas, son muy pequeñas y crecen en abundancia. Son increíblemente trepadoras y quedan preciosas en un jardín o patio.
 
 ![Tipos de rosas](/assets/images/posts/Rosal-Banksia.jpg)
 
 
-Voy hacer una mención especial a una rosa típica y muy popular aquí en Reino Unido: **Las rosas inglesas o Rosas de David Austin**
+Voy hacer una mención especial a una rosa típica y muy popular aquí en Reino Unido: **Las rosas inglesas o Rosas de David Austin**.
 
-Estas rosas son las creadas por David Austin (1926, Ingaterra), conocido a nivel mundial en el mundo de la horticultura y que se dedica a cultivar nuevas rosas. Las crea combinado rosas antiguas (muy aromáticas y con carácter) con las modernas (muy resistentes y de muchos colores). HAy creado muchísimas nuevas variantes.
+Estas rosas son las creadas por David Austin (1926, Ingaterra), conocido a nivel mundial en la horticultura y que se dedica a cultivar nuevas rosas. Las crea combinando rosas antiguas (muy aromáticas y con carácter) con las modernas (muy resistentes y de muchos colores). Ha creado muchísimas nuevas variantes.
 
 ![Tipos de rosas](/assets/images/posts/Austin-roses.jpg)
 
 
-Espero que hayáis aprendido un poco sobre el mundo de las rosas y sobretodo, que hayáis elegido a vuestra favorita. Es un mundo apasionante a la vez de delicado. Anímate y regálate una rosa ;)
+Espero que hayáis aprendido un poco sobre el mundo de las rosas y sobretodo, que hayáis elegido a vuestra favorita. Es un mundo apasionante, a la vez de delicado. Anímate y regálate una rosa ;)
 
 
