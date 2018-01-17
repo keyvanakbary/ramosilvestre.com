@@ -65,7 +65,7 @@ _**Rosa mosqueta, Eglantina rosa**_: Es conocida por sus múltiples propiedades 
 
 _**Rosa rugosa**_: Es una rosa poco conocida, es de origen asiático. Desprende un fuerte aroma y es muy resistente.
 
-![Tipos de rosas](/assets/images/posts/significado-de-las-flores.jpg)
+![Tipos de rosas](/assets/images/posts/Rosa-rugosa.jpg)
 
 
 _**Rosal de Banksia**_: Estas rosas son las primeras en florecer, en primavera. Me gustan, porque aunque no tengan perfume, no tienen espinas, y son muy pequeñas y crecen en abundancia. Son increíblemente trepadoras y quedan preciosas en un jardín o patio.
