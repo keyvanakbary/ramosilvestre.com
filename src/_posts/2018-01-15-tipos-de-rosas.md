@@ -61,7 +61,7 @@ Las rosas silvestres son aquellas que crecen sin ningún tipo de interferencia h
 
 _**Rosa mosqueta, Eglantina rosa**_: Es conocida por sus múltiples propiedades en la cosmética, pero además tiene una dulce fragancia y puede medir la planta hasta casi 2,5 metos de altura.
 
-![Significado de las flores](/assets/images/posts/significado-de-las-flores.jpg)
+![Significado de las flores](/assets/images/posts/Rosa-mosqueta.jpg)
 
 _**Rosa rugosa**_: Es una rosa poco conocida, pero es de origen asiático. Desprende un fuerte aroma y es muy resistente.
 ![Significado de las flores](/assets/images/posts/significado-de-las-flores.jpg)
