@@ -77,7 +77,7 @@ Voy hacer una mención especial a una rosa típica y muy popular aquí en Reino 
 
 Estas rosas son las creadas por David Austin (1926, Ingaterra), conocido a nivel mundial en el mundo de la horticultura y que se dedica a cultivar nuevas rosas. Las crea combinado rosas antiguas (muy aromáticas y con carácter) con las modernas (muy resistentes y de muchos colores). HAy creado muchísimas nuevas variantes.
 
-![Tipos de rosas](/assets/images/posts/significado-de-las-flores.jpg)
+![Tipos de rosas](/assets/images/posts/Austin-roses.jpg)
 
 
 Espero que hayáis aprendido un poco sobre el mundo de las rosas y sobretodo, que hayáis elegido a vuestra favorita. Es un mundo apasionante a la vez de delicado. Anímate y regálate una rosa ;)
