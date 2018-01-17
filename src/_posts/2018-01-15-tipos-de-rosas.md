@@ -26,15 +26,22 @@ _**Sempervirens**_: Son rosas dobles portadoras de numerosas flores y muy trepad
 
 _**Gallica**_: Son rosales densos, con vivos colores y con frangancia muy fuerte.
 
-_**Té**_: Son rosas trepadoras, con suave fragancia y muy resistentes.
 
-_**Damascenos**_: Suelen florecer en ramilletes de dos flores y son muy fragantes.
+
+
 
 
 #### Las rosas modernas/híbridas
 
+Estas rosas son las que más se usan y se cultivan en la actualidad. Han sido creadas a partir de las mejores partes d elas rosas antiguas, y se ha creado su color, su fragancia, su alta resistencia a las plagas y para que folorezv=can en más periodos y por más tiempo.
+
+_**Híbrido de Té**_: Esta es la rosa típca y la más famosa. Cuando piensas en una rosa, esta es la que se te viene a la cabeza. Hay miles de variantes en decenas de colores, con direfentes fragancias, tamaños etc. Es la que eusa en los ramos y decoraciones florales.
+
+_**Rosas Floribundas**_: También es muy conocida, pero crece en ramilletes con varias flores en un tallo y son un poco más pequeñas.
+
+_**Rosas Grandiflora**_:Esta es una de las variedades más modernas. Combina la belleza de las híbrido de té y la fortaleza de las floribundas. En jardines, pueden crecer muy alto llegando hasta los 2 metros de altura.
 
 
 
-
+#### Las rosas modernas/híbridas
 
