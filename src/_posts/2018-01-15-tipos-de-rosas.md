@@ -45,7 +45,8 @@ _**Híbrido de Té**_: Esta es la rosa típca y la más famosa. Cuando piensas e
 
 _**Rosas Floribundas**_: También es muy conocida, pero crece en ramilletes con varias flores en un tallo y son un poco más pequeñas.
 
-![Significado de las flores](/assets/images/posts/significado-de-las-flores.jpg)
+![Significado de las flores](/assets/images/posts/Rosa-Floribunda.jpg)
+
 
 _**Rosas Grandiflora**_:Esta es una de las variedades más modernas. Combina la belleza de las híbrido de té y la fortaleza de las floribundas. En jardines, pueden crecer muy alto llegando hasta los 2 metros de altura.
 
