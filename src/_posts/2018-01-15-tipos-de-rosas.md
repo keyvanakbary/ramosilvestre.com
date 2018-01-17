@@ -24,7 +24,7 @@ _**Rosa de Rescht**_: Sus flores muy perfumadas son fucsia, casi rojas, y sombre
 ![Significado de las flores](/assets/images/posts/Rosa-de-Rescht.jpg)
 
 _**Sempervirens**_: Son rosas dobles portadoras de numerosas flores y muy trepadoras. Lucen preciosas en arcos y pergolas.
-![Significado de las flores](/assets/images/posts/significado-de-las-flores.jpg)
+![Significado de las flores](/assets/images/posts/Rosa-Sempervirens.jpg)
 
 _**Gallica**_: Son rosales densos, con vivos colores y con frangancia muy fuerte.
 ![Significado de las flores](/assets/images/posts/significado-de-las-flores.jpg)
