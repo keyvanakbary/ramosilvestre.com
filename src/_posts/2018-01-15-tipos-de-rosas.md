@@ -2,7 +2,8 @@
 layout: post
 title: Tipos de rosas
 image: /assets/images/posts/cuidar-ramo.jpg 
-description: Con tantas variedades de rosas disponibles, ¿Cómo elegir tu favorita? Echemos un vistazo a algunas de las más populares explicando los tres grandes grupos que hay: las rosas antiguas, las rosas modernas/híbridas y las rosas silvestres.
+description:
+  Con tantas variedades de rosas disponibles, ¿Cómo elegir tu favorita? Echemos un vistazo a algunas de las más populares explicando los tres grandes grupos que hay: las rosas antiguas, las rosas modernas/híbridas y las rosas silvestres.
 tags:
   - Flores
   - Rosas
