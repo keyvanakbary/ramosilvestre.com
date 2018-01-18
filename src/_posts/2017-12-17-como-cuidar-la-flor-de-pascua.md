@@ -2,7 +2,7 @@
 layout: post
 title: Cómo cuidar la Flor de Pascua
 image: /assets/images/posts/flor-de-pascua.jpg
-description: Cuidar la flor de pascua
+description: Si hay una planta que se asocie con la **Navidad**, esta es sin duda la flor de pascua.
 tags:
   - Flores
   - Plantas
