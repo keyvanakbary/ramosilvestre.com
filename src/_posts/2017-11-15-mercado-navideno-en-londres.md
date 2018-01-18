@@ -7,7 +7,7 @@ tags:
   - Londres
   - Decoracion
 
-description: Mercado navideño en Londres
+description: Country Living Christmas Fair
 image: /assets/images/posts/mercado-navidad.jpg
 ---
 
