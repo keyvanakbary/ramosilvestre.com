@@ -7,7 +7,7 @@ tags:
   - Decoracion
   - Consejos 
 
-description: Secar ramo de flores
+description: ¿Por qué no secar las flores tan bonitas que he comprado?
 image: /assets/images/posts/secar-flores.jpg
 ---
 
