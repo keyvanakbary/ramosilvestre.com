@@ -9,7 +9,7 @@ tags:
   - Cuidados
   - Consejos 
 
-description: Como cuidar un ramo de flores
+description: ¿Qué debo hacer para que las flores duren más?
 image: /assets/images/posts/cuidar-ramo.jpg
 ---
 
