@@ -2,7 +2,7 @@
 layout: post
 title: Plantas de invierno
 image: /assets/images/posts/plantas-de-invierno.jpg
-description: Plantas de invierno
+description: Ten bonito tu **balcón, terraza o patio en invierno** con estas plantas que te resumo a continuación. Hay bastantes, pero he seleccionado unas cuantas por su belleza, resistencia y aroma.
 tags:
   - Flores
   - Plantas
