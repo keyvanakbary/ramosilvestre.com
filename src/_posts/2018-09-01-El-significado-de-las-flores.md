@@ -2,7 +2,7 @@
 layout: post
 title: El significado de las flores
 image: /assets/images/posts/cuidar-ramo.jpg 
-description: Que significa cada flor
+description: ¿Sabías que hubo un sistema de comunicación basado en el **lenguaje de las flores**?
 tags:
   - Flores
   - Curiosidades
