@@ -31,7 +31,7 @@ Esta flor se regalaba cuando alquien quería alabar la **belleza** de la otra pe
 
 ### 2. Peonía
 
-Esta flor es muy popular, y es normal ya que es muy bella y desprende un aroma muy delicado e intenso. Esta flor representa la **timidez**. Regalar peonías rosas significa querer decirle a alguien que tienes sentimientos especiales pero eres demasiado tímido de expresarlos. Si te gustan las peonías blancas (como a mí, por su maravilloso aroma) significan amistad y que valoras a esa persona.
+Esta flor es muy popular, y es normal ya que es muy bella y desprende un aroma muy delicado e intenso. Esta flor representa la **timidez**. Regalar peonías rosas significa querer decirle a alguien que tienes sentimientos especiales pero eres demasiado tímido para expresarlos. Si te gustan las peonías blancas (como a mí, por su maravilloso aroma) significan amistad y que valoras a esa persona.
 
 ![El significado de las flores](/assets/images/posts/peonia.jpg)	
 
