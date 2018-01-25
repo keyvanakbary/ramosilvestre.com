@@ -1,7 +1,7 @@
 ---
 layout: post
 title: El significado de las flores
-image: /assets/images/posts/cuidar-ramo.jpg 
+image: /assets/images/posts/el-significado-de-las-flores-2.jpg
 description: La floriografía
 tags:
   - Flores
