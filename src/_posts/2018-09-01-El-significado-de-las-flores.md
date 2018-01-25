@@ -12,6 +12,9 @@ tags:
 
 Fue el rey Carlos II de Inglaterra en el siglo XVII, quien trajo e introdujo en Europa el arte y lenguaje de las flores, através de la recopilación de documentos desde Persia.
 
+
+![El significado de las flores](/assets/images/posts/el-significado-de-las-flores.jpg)
+
 En la actualidad, casi todos estos códigos y significados se **han perdido**, y muchos libros hablan de la floriografía como un lenguaje complejo e intrincado. Pero a pesar del tiempo algunos significados han perdurado, como por ejemplos el de las rosas y su significado de amor y pasión. A mi me gusta pensar en la floriografía como en el **arte de plasmar los pensamientos en un ramo de flores**, me parece un trabajo precioso como florista conseguir transmitir através de una ramo o arreglo de flores los sentimientos de alguien.
 
 
