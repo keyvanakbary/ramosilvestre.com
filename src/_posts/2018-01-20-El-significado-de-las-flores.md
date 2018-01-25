@@ -8,7 +8,7 @@ tags:
   - Curiosidades
 ---
 
-¿Sabías que hubo un sistema de comunicación basado en el **lenguaje de las flores**? Este sistema se llamaba **floriografía** y tuvo su origen en la **época victoriana**. Nació como lenguaje alternativo dentro de una sociedad opresiva y tradicional y que permitió a muchas personas poder mandarse mensajes secretos através de los ramos de flores. Cada flor tenía un significado, y este método era una forma segura y secreta de transmitir todo tipo de mensajes codificados, solo al alcance de aquellos que sabían interpretarlos. 
+¿Sabías que hubo un sistema de comunicación basado en el **lenguaje de las flores**? Este sistema se llamaba **floriografía** y tuvo su origen en la **época victoriana**. Nació como lenguaje alternativo dentro de una sociedad opresiva y tradicional y que permitió a muchas personas poder mandarse mensajes secretos através de los ramos de flores. Cada flor tenía un significado, y este método era una forma segura y secreta de transmitir todo tipo de mensajes codificados solo al alcance de aquellos que sabían interpretarlos. 
 
 Fue el rey Carlos II de Inglaterra en el siglo XVII quien trajo e introdujo en Europa el arte y lenguaje de las flores, através de la recopilación de documentos desde Persia.
 
