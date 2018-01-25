@@ -8,14 +8,14 @@ tags:
   - Curiosidades
 ---
 
-¿Sabías que hubo un sistema de comunicación basado en el **lenguaje de las flores**? Este sistema se llamaba **floriografía** y tuvo su origen en la **época victoriana**. Nació como lenguaje alternativo dentro de una sociedad opresiva y tradicional, y que permitió a muchas personas poder mandarse mensajes secretos através de los ramos de flores. Cada flor tenía un significado, y este método era una forma segura y secreta de transmitir todo tipo de mensajes codificados, solo al alcance de aquellos que sabían interpretarlos. 
+¿Sabías que hubo un sistema de comunicación basado en el **lenguaje de las flores**? Este sistema se llamaba **floriografía** y tuvo su origen en la **época victoriana**. Nació como lenguaje alternativo dentro de una sociedad opresiva y tradicional y que permitió a muchas personas poder mandarse mensajes secretos através de los ramos de flores. Cada flor tenía un significado, y este método era una forma segura y secreta de transmitir todo tipo de mensajes codificados, solo al alcance de aquellos que sabían interpretarlos. 
 
-Fue el rey Carlos II de Inglaterra en el siglo XVII, quien trajo e introdujo en Europa el arte y lenguaje de las flores, através de la recopilación de documentos desde Persia.
+Fue el rey Carlos II de Inglaterra en el siglo XVII quien trajo e introdujo en Europa el arte y lenguaje de las flores, através de la recopilación de documentos desde Persia.
 
 
 ![El significado de las flores](/assets/images/posts/el-significado-de-las-flores.jpg)
 
-En la actualidad, casi todos estos códigos y significados se **han perdido**, y muchos libros hablan de la floriografía como un lenguaje complejo e intrincado. Pero a pesar del tiempo algunos significados han perdurado, como por ejemplos el de **las rosas** y su significado de amor apasionado. 
+En la actualidad, casi todos estos códigos y significados se **han perdido** y muchos libros hablan de la floriografía como un lenguaje complejo e intrincado. Pero a pesar del tiempo algunos significados han perdurado, como por ejemplos el de **las rosas** y su significado de amor apasionado. 
 
 A mi me gusta pensar en la floriografía como en el **arte de plasmar los pensamientos en un ramo de flores**, me parece un trabajo precioso como florista conseguir transmitir através de una ramo o arreglo de flores los sentimientos de alguien.
 
@@ -68,4 +68,4 @@ En la actuaidad, el clavel no tiene muy buena reputación por el uso tan frecuen
 
 
 
-Espero que os haya resultado interesante y hayáis aprendido un poquito sobre el significado de las flores. Me parece precioso pensar que al regalar una flor transmites un mensaje tan concreto, **¿te animas a decirle a aguien loq ue sientes con una flor?**
+Espero que os haya resultado interesante y hayáis aprendido un poquito sobre el significado de las flores. Me parece precioso pensar que al regalar una flor transmites un mensaje tan concreto, **¿te animas a decirle a alguien lo que sientes con una flor?**
