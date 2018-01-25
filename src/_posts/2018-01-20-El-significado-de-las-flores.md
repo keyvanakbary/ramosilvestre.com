@@ -24,33 +24,38 @@ A continuación, os dejo el **significado de las flores más populares**. Puede 
 
 ### 1. Orquídea
 
-Esta flor se regalaba cuando alquien quería alabar la belleza de alguien. Simboliza también sensualidad, erotismo y fecundidad. Si deseas decirle a una persona que estas loco por ella, la orquídea es la mejor opción. ;)
+Esta flor se regalaba cuando alquien quería alabar la **belleza** de alguien. Simboliza también sensualidad, erotismo y fecundidad. Si deseas decirle a una persona que estas loco por ella, la orquídea es la mejor opción. ;)
 
 ![El significado de las flores](/assets/images/posts/orquidea.jpg)	
  
 
 ### 2. Peonía
 
-Esta flor es muy popular, y es normal ya que es muy bella y desprende un aroma muy delicado e intenso. Esta flor representa la timidez. Regalar peonías rosas significa querer decirle a alguien que tienes sentimientos especiales pero eres demasiado tímido de expresarlos. Si te gustan las peonías blancas (como a mí, por su maravilloso aroma) significan amistad y que valoras a esa persona.
+Esta flor es muy popular, y es normal ya que es muy bella y desprende un aroma muy delicado e intenso. Esta flor representa la **timidez**. Regalar peonías rosas significa querer decirle a alguien que tienes sentimientos especiales pero eres demasiado tímido de expresarlos. Si te gustan las peonías blancas (como a mí, por su maravilloso aroma) significan amistad y que valoras a esa persona.
 
 ![El significado de las flores](/assets/images/posts/peonia.jpg)	
 
+### 3. Tulipán
 
-### 3. Lirio
-
-Estas flores son unas de las más fáciles de encontrar en cualquier floristería. Son muy perfumadas y existen en muchos colores diferentes. Los lirios representarían el amor, pero el amor alegre, correspondido y feliz.
-
-![El significado de las flores](/assets/images/posts/lirio.jpg)	
-
-
-### 4. Tulipán
-
-Es una de las flores más famosas del mundo. Hay decenas de diferentes colores y tamaño. Por concretar algunos colores, el tulipán rojo siginifica amor verdadero, el amarillo un amor sin esperanza o el blanco sería pedri perdón.
+Es una de las flores más famosas del mundo. Hay decenas de diferentes colores y tamaños. Concretando algunos colores, el tulipán rojo siginifica amor verdadero, el amarillo un amor sin esperanza o el tulipán blanco significaría pedir perdón.
 
 ![El significado de las flores](/assets/images/posts/tulipan.jpg)	
 
 
+### 4. Lirio
 
+Estas flores son unas de las más fáciles de encontrar en cualquier floristería. Son muy perfumadas y existen en muchos colores diferentes. Los lirios representarían el amor, pero el **amor alegre, correspondido y feliz.**
+
+![El significado de las flores](/assets/images/posts/lirio.jpg)	
+
+
+
+
+### 5. Girasol
+
+Esta flor recuerda al sol, por lo tanto regalar girasoles estás transmitiendo a esa persona que ella es el **centro de tu vida** y que giras alrededor de ella. En la actualidad, los girasoles también significan amistad, al igual que los tulipanes.
+
+![El significado de las flores](/assets/images/posts/girasol.jpg)	
 
 
 
