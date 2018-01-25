@@ -37,7 +37,7 @@ Esta flor es muy popular, y es normal ya que es muy bella y desprende un aroma m
 
 ### 3. Tulipán
 
-Es una de las flores más famosas del mundo. Hay decenas de diferentes colores y tamaños. Concretando algunos colores, el tulipán rojo significa amor verdadero, el amarillo un amor sin esperanza o el tulipán blanco significaría pedir perdón.
+Es una de las flores más famosas del mundo. Hay decenas de diferentes colores y tamaños. Concretando algunos colores, el tulipán rojo significa amor verdadero, el amarillo un amor sin esperanza y el tulipán blanco significaría pedir perdón.
 
 ![El significado de las flores](/assets/images/posts/tulipan.jpg)	
 
