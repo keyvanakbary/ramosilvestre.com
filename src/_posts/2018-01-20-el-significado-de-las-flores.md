@@ -69,7 +69,7 @@ Si en el siglo XIX en Inglaterra te regalaban margaritas, te estaban preguntado 
 
 ### 7. Clavel
 
-En la actuaidad, el clavel no tiene muy buena reputación por el uso tan frecuente que se da a esta flor y por su precio barato comparado con otras flores. Pero en la era victoriana significaba un **nuevo y fascinante amor**. Si te regalaban un clavel rojo, alguien en algún lugar suspiraba por tí.
+En la actualidad, el clavel no tiene muy buena reputación por el uso tan frecuente que se da a esta flor y por su precio barato comparado con otras flores. Pero en la era victoriana significaba un **nuevo y fascinante amor**. Si te regalaban un clavel rojo, alguien en algún lugar suspiraba por tí.
 
 ![El significado de las flores](/assets/images/posts/clavel.jpg)
 
