@@ -15,7 +15,7 @@ Fue el rey Carlos II de Inglaterra en el siglo XVII, quien trajo e introdujo en 
 En la actualidad, **casi todos estos códigos y significados se han perdido**, y muchos libros hablan de la floriografía como un lenguaje complejo e intrincado. Pero apesar del tiempo algunos significados han perdurado, como el de las rosas y su significado de amor y pasión.
 
 
-A continuación, os dejo el **significado de las flores más populares**. Puede ser útil a la hora de escoger un ramo o también por saber un poco más de este antiguo y curioso lenguaje 
+A continuación, os dejo el **significado de las flores más populares**. Puede ser útil a la hora de escoger un ramo o también por saber un poco más de este antiguo y curioso leng
 
 
 
