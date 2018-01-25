@@ -2,7 +2,7 @@
 layout: post
 title: El significado de las flores
 image: /assets/images/posts/cuidar-ramo.jpg 
-description: ¿Sabías que hubo un sistema de comunicación basado en el **lenguaje de las flores**?
+description: La floriografía
 tags:
   - Flores
   - Curiosidades
@@ -12,10 +12,13 @@ tags:
 
 Fue el rey Carlos II de Inglaterra en el siglo XVII, quien trajo e introdujo en Europa el arte y lenguaje de las flores, através de la recopilación de documentos desde Persia.
 
-En la actualidad, casi todos estos códigos y significados se **han perdido**, y muchos libros hablan de la floriografía como un lenguaje complejo e intrincado. Pero a pesar del tiempo algunos significados han perdurado, como por ejemplos el de las rosas y su significado de amor y pasión. A mi me gusta pensar en la floriografía como en  el **arte de plasmar los pensamientos en un ramo de flores**, me parece un trabajo precioso, como florista conseguir transmitir através de una ramo los sentimienntos y pensamientos.
+En la actualidad, casi todos estos códigos y significados se **han perdido**, y muchos libros hablan de la floriografía como un lenguaje complejo e intrincado. Pero a pesar del tiempo algunos significados han perdurado, como por ejemplos el de las rosas y su significado de amor y pasión. A mi me gusta pensar en la floriografía como en el **arte de plasmar los pensamientos en un ramo de flores**, me parece un trabajo precioso como florista conseguir transmitir através de una ramo o arreglo de flores los sentimientos de alguien.
 
 
 A continuación, os dejo el **significado de las flores más populares**. Puede ser útil a la hora de escoger un ramo o también por saber un poco más de este antiguo y curioso lenguaje:
+
+
+
 
 
 
