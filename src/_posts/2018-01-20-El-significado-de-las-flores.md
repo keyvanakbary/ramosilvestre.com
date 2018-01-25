@@ -20,21 +20,25 @@ En la actualidad, casi todos estos códigos y significados se **han perdido**, y
 
 A continuación, os dejo el **significado de las flores más populares**. Puede ser útil a la hora de escoger un ramo o también por saber un poco más de este antiguo y curioso lenguaje:
 
-### 1.Orquídea
+### 1. Orquídea
 
 Esta flor se regalaba cuando alquien quería alabar la belleza de alguien. Simboliza también sensualidad, erotismo y fecundidad. Si deseas decirle a una persona que estas loco por ella, la orquídea es la mejor opción. ;)
 
 ![El significado de las flores](/assets/images/posts/orquidea.jpg)	
  
 
-### 1.Peonía
+### 2. Peonía
 
 Esta flor es muy popular, y es normal ya que es muy bella y desprende un aroma muy delicado e intenso. Esta flor representa la timidez. Regalar peonías rosas significa querer decirle a alguien que tienes sentimientos especiales pero eres demasiado tímido de expresarlos. Si te gustan las peonías blancas (como a mí, por su maravilloso aroma) significan amistad y que valoras a esa persona.
 
 ![El significado de las flores](/assets/images/posts/peonia.jpg)	
 
 
+### 3. Lirio
 
+Estas flores son unas de las más fáciles de encontrar en cualquier floristería. Son muy perfumadas y existen en muchos colores diferentes. Los lirios representarían el amor, pero el amor alegre, correspondido y feliz.
+
+![El significado de las flores](/assets/images/posts/lirios.jpg)	
 
 
 
