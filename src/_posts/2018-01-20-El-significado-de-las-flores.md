@@ -59,10 +59,13 @@ Esta flor recuerda al sol, por lo tanto regalar girasoles estás transmitiendo a
 
 ### 6. Margaritas
 
-Si en el siglo XIX en Inglaterra te regalaban margaritas, te estaban preguntado **“¿me quieres?”.** Además es el símbolo eterno de la pureza, la inocencia y la infancia.
+Si en el siglo XIX en Inglaterra te regalaban margaritas, te estaban preguntado **¿me quieres?.** Además es el símbolo eterno de la pureza, la inocencia y la infancia.
 
 
 ### 7. Clavel
 
 En la actuaidad, el clavel no tiene muy buena reputación por el uso tan frecuente que se da a esta flor y por su precio barato comparado con otras flores. Pero en la era victoriana significaba un **nuevo y fascinante amor**. Si te regalaban un clavel rojo, alguien en algún lugar suspiraba por tí.
 
+
+
+Espero que os haya resultado interesante y hayáis aprendido un poquito sobre el significado de las flores. Me parece precioso pensar que al regalar una flor transmites un mensaje tan concreto, **¿te animas a decirle a aguien loq ue sientes con una flor?**
