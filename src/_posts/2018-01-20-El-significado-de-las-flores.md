@@ -20,6 +20,14 @@ En la actualidad, casi todos estos códigos y significados se **han perdido**, y
 
 A continuación, os dejo el **significado de las flores más populares**. Puede ser útil a la hora de escoger un ramo o también por saber un poco más de este antiguo y curioso lenguaje:
 
+### 1.Orquídea
+
+Esta flor se regalaba cuando alquien quería alabar la belleza de la alguien. Simbolizada ademas sensualidad, erotismo y fecundidad. Si deseas decirle a alguien que esta loco por ella, la orquídea es la mjro opción. ;)
+
+![El significado de las flores](/assets/images/posts/orquidea.jpg)	
+ 
+
+
 
 
 
