@@ -22,10 +22,16 @@ A continuación, os dejo el **significado de las flores más populares**. Puede 
 
 ### 1.Orquídea
 
-Esta flor se regalaba cuando alquien quería alabar la belleza de la alguien. Simbolizada ademas sensualidad, erotismo y fecundidad. Si deseas decirle a alguien que esta loco por ella, la orquídea es la mjro opción. ;)
+Esta flor se regalaba cuando alquien quería alabar la belleza de la alguien. Simbolizada ademas sensualidad, erotismo y fecundidad. Si deseas decirle a alguien que esta loco por ella, la orquídea es la mejor opción. ;)
 
 ![El significado de las flores](/assets/images/posts/orquidea.jpg)	
  
+
+### 1.Peonía
+
+Esta flor es muy popular, y es normal ya que es muy bella y desprende un aroma muy delicado e intenso. Esta flor representa la timidez. Regalar peonías rosas significa querer decirle a alguien que tienes sentimientos especiales hacia él pero eres demasiado tímido de expresarlos. Si te gustan las peonías blancas (como a mí, por su maravilloso aroma) significan amistad y que valoras a esa persona.
+
+![El significado de las flores](/assets/images/posts/peonia.jpg)	
 
 
 
