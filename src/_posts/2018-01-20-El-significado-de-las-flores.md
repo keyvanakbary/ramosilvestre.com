@@ -40,7 +40,7 @@ Esta flor es muy popular, y es normal ya que es muy bella y desprende un aroma m
 
 Estas flores son unas de las más fáciles de encontrar en cualquier floristería. Son muy perfumadas y existen en muchos colores diferentes. Los lirios representarían el amor, pero el amor alegre, correspondido y feliz.
 
-![El significado de las flores](/assets/images/posts/lirios.jpg)	
+![El significado de las flores](/assets/images/posts/lirio.jpg)	
 
 
 ### 4. Tulipán
