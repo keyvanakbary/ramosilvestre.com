@@ -2,7 +2,7 @@
 layout: post
 title: El significado de las flores
 image: /assets/images/posts/el-significado-de-las-flores-2.jpg
-description: La floriografía
+description: "¿Sabías que hubo un sistema de comunicación basado en el lenguaje de las flores? Este sistema se llamaba floriografía y tuvo su origen en la época victoriana."
 redirect_from:
   - /blog/El-significado-de-las-flores
 tags:
