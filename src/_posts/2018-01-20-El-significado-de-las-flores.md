@@ -15,7 +15,9 @@ Fue el rey Carlos II de Inglaterra en el siglo XVII, quien trajo e introdujo en 
 
 ![El significado de las flores](/assets/images/posts/el-significado-de-las-flores.jpg)
 
-En la actualidad, casi todos estos códigos y significados se **han perdido**, y muchos libros hablan de la floriografía como un lenguaje complejo e intrincado. Pero a pesar del tiempo algunos significados han perdurado, como por ejemplos el de las rosas y su significado de amor y pasión. A mi me gusta pensar en la floriografía como en el **arte de plasmar los pensamientos en un ramo de flores**, me parece un trabajo precioso como florista conseguir transmitir através de una ramo o arreglo de flores los sentimientos de alguien.
+En la actualidad, casi todos estos códigos y significados se **han perdido**, y muchos libros hablan de la floriografía como un lenguaje complejo e intrincado. Pero a pesar del tiempo algunos significados han perdurado, como por ejemplos el de **las rosas** y su significado de amor apasionado. 
+
+A mi me gusta pensar en la floriografía como en el **arte de plasmar los pensamientos en un ramo de flores**, me parece un trabajo precioso como florista conseguir transmitir através de una ramo o arreglo de flores los sentimientos de alguien.
 
 
 A continuación, os dejo el **significado de las flores más populares**. Puede ser útil a la hora de escoger un ramo o también por saber un poco más de este antiguo y curioso lenguaje:
@@ -40,6 +42,12 @@ Estas flores son unas de las más fáciles de encontrar en cualquier floristerí
 
 ![El significado de las flores](/assets/images/posts/lirios.jpg)	
 
+
+### 4. Tulipán
+
+Es una de las flores más famosas del mundo. Hay decenas de diferentes colores y tamaño. Por concretar algunos colores, el tulipán rojo siginifica amor verdadero, el amarillo un amor sin esperanza o el blanco sería pedri perdón.
+
+![El significado de las flores](/assets/images/posts/tulipan.jpg)	
 
 
 
