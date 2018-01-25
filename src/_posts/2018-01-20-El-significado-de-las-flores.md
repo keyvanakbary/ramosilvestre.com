@@ -50,12 +50,17 @@ Estas flores son unas de las más fáciles de encontrar en cualquier floristerí
 
 
 
-
 ### 5. Girasol
 
 Esta flor recuerda al sol, por lo tanto regalar girasoles estás transmitiendo a esa persona que ella es el **centro de tu vida** y que giras alrededor de ella. En la actualidad, los girasoles también significan amistad, al igual que los tulipanes.
 
 ![El significado de las flores](/assets/images/posts/girasol.jpg)	
+
+
+### 6. Margaritas
+
+Si en la época victoriana te regalaban margaritas, te estaban preguntado **“¿me quieres?”.** Además es el símbolo eterno de la pureza, la inocencia y la infancia.
+
 
 
 
