@@ -17,7 +17,7 @@ Fue el rey Carlos II de Inglaterra en el siglo XVII quien trajo e introdujo en E
 
 En la actualidad, casi todos estos códigos y significados se **han perdido** y muchos libros hablan de la floriografía como un lenguaje complejo e intrincado. Pero a pesar del tiempo algunos significados han perdurado, como por ejemplo el de **las rosas** y su significado de amor apasionado. 
 
-A mi me gusta pensar en la floriografía como en el **arte de plasmar los pensamientos en un ramo de flores**, me parece un trabajo precioso como florista conseguir transmitir a través de una ramo o arreglo de flores los sentimientos de alguien.
+A mí me gusta pensar en la floriografía como en el **arte de plasmar los pensamientos en un ramo de flores**, me parece un trabajo precioso como florista conseguir transmitir a través de una ramo o arreglo de flores los sentimientos de alguien.
 
 
 A continuación, os dejo el **significado de las flores más populares**. Puede ser útil a la hora de escoger un ramo o también por saber un poco más de este antiguo y curioso lenguaje:
