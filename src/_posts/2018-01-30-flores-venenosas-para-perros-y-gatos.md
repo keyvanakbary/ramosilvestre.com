@@ -62,7 +62,10 @@ La azalea es una de las plantas **más tóxicas que existen para tu mascota**. I
 **RECUERDA:** Si crees que tu perro o gato ha estado en contacto con estas flores y presenta alguno de esto síntomas, acude rápidamente a tu veterinario. Un diagnóstico rápido es fundamental para que tu mascota se recupere lo antes posible y con las menos secuelas posibles.
 
 
+![Flores venenosas para tu mascota](/assets/images/posts/flores-venenosas-perros-gatos.jpg)
+ 
 
+ 
 
 
 
