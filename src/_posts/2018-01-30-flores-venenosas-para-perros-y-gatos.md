@@ -35,7 +35,9 @@ Esta flor silvestre es muy común en primavera en cualquier campo o zona rural. 
 ![Flores venenosas para tu mascota](/assets/images/posts/amapola-toxica-para-mascotas.jpg)
 
  
+## 3. Lirio
 
+Esta flor es especialmente peligrosa **para los gatos**. Hay difrentes tipo de lirios y no todos son tan peligrosos. Los que tenemos que tener muchi cuidado con con los lirios 
 
 
 
