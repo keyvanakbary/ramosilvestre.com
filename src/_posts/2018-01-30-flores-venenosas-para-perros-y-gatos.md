@@ -14,7 +14,7 @@ Lo que me ha llevado a escribir este artículo ha sido, como a muchos os pasará
 Flores que se encuentran al aire libre o que puedes poner en tu casa y que son **tóxicas pero perros y gatos**. Pocas son altamente mortales, pero pueden producir mucho malestar en tu mascota, y además que estas molestias pueden derivar en algo más grave sino se detecta la intoxicación a tiempo.
 
 
-A continuación, os dejo un lista de ochos flores tóxicas muy comunes, aquellas que nos podemos encontrar en cualquier parque o floristería. Esto no significa que tu perro o gato no se pueda acercar a ninguna de ellas, simplemente debemos tener **especial cuidado** cuando las tengamos cerca para que no las chupen o coman, ya que algunas desprenden un rico aroma que las puede hacer muy atractivas, pero esto no significa que tu mascota se vaya acercar siempre a ellas. Vayamos de menor a mayor peligrosidad.
+A continuación, os dejo un lista de ochos flores tóxicas muy comunes, aquellas que nos podemos encontrar en cualquier parque o floristería. Esto no significa que tu perro o gato no se pueda acercar a ninguna de ellas, simplemente debemos tener **especial cuidado** cuando las tengamos cerca para que no las chupen o coman, ya que algunas desprenden un rico aroma que las puede hacer muy atractivas, pero esto no significa que tu mascota se vaya acercar siempre a ellas. Vayamos de menor a mayor peligrosidad. Hay más plantas y flores que pueden resultar tóxicas, pero he puesto ejemplos de las populares:
 
 ## 1. Hortensia
 
@@ -59,7 +59,7 @@ La azalea es una de las plantas **más tóxicas que existen para tu mascota**. I
 
 
 
-
+**RECUERDA:** Si crees que tu perro o gato ha estado en contacto con estas flores y presenta alguno de esto síntomas, acude rápidamente a tu veterinario. Un diagnóstico rápido es fundamental para que tu mascota se recupere lo antes posible y con las menos secuelas posibles.
 
 
 
