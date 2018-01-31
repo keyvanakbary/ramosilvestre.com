@@ -39,7 +39,7 @@ Estas flores son muy populares y famosas. Las podrás encontrar en invierno-prim
 
 ![Flores venenosas para tu mascota](/assets/images/posts/amapola-toxica-para-mascotas.jpg)
 
-Esta flor silvestre es muy común en primavera en cualquier campo o zona rural. Hay que tener espcial cuidado con ella porque crece en cualquier sitio y simplemente con que nuestro gato o perro se acerque a ella ya les puede producir irritación de la piel, disminución del ritmo cardíaco, babeo y dilatación de la pupila.
+Esta flor silvestre es muy común en primavera en cualquier campo o zona rural. Hay que tener especial cuidado con ella porque crece en cualquier sitio y simplemente con que nuestro gato o perro se acerque a ella ya les puede producir irritación de la piel, disminución del ritmo cardíaco, babeo y dilatación de las pupilas.
 
 
 ## 5. Lirio
