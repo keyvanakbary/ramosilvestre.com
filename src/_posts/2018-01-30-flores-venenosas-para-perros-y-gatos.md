@@ -22,9 +22,10 @@ A continuación, os dejo un lista de ochos flores tóxicas muy comunes, aquellas
 Esta bella planta florece principalmente en primavera-verano y suele ser **muy común en España** por sus diferentes colores, por su belleza y su grandiosidad. Pero las hortensia si es ingerida por animales les produce vómitos, diarrea, inactividad y sueño.
 
  ## 2. Gladiolo
- 
+ ![Flores venenosas para tu mascota](/assets/images/posts/gladiolo-toxico-para-perros-gatos.jpg)
+  
  Flor muy fácil de encontar en floristerías. Son muy llamativas y al ser alargadas y vistosas son usadas en muchos arreglos florales. Pero para los perros y gatos es tóxica produciendo sueño, babeo y malestar general.
- 
+
 
 ## 3. Tulipanes, narcisos y jacintos
 
