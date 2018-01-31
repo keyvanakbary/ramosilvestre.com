@@ -25,8 +25,14 @@ Esta bella planta florece principalmente en primavera-verano y suele ser **muy c
 
 ![Flores venenosas para tu mascota](/assets/images/posts/tulipanes-jacintos-narcisos-toxicos-para-mascotas.jpg)
 
-Estas flores son muy populares y famosas. Las podrás encontrar en invierno-primavera en parques y decorando terrazas. El jacinto y narciso tienen un fuerte aroma y pueden ser muy llamativos para los perros y gatos. E**stas tres flores son un bulbo**, y estos pueden ser más tóxicos que la propia flor. Si es ingerido en una pequeña cantidad puede producir malestar general en el cuerpo de tu mascota, pero si es ingerido en grandes cantidades puede producir graves problemas cardíacos y respiratorios.
+Estas flores son muy populares y famosas. Las podrás encontrar en invierno-primavera en parques y decorando terrazas. El jacinto y narciso tienen un fuerte aroma y pueden ser muy llamativos para los perros y gatos. E**stas tres flores son un bulbo**, y estos pueden ser más tóxicos que la propia flor. Si es ingerido en una pequeña cantidad puede producir malestar general en el cuerpo de tu mascota, pero si es ingerido en grandes cantidades puede producir graves problemas cardíacos y respiratorios. Además, los narcisos también son muy tóxicos si son ingerido por los **humanos.**
 
+
+## 3. Amapola
+
+Esta flor silvestre es muy común en primavera en cualquier campo o zona rural. Hay que tener espcial cuidado con ella porque crece en cualquier sitio y simplemente con que nuestro gato o perro se acerque a ella ya les puede producir irritación de la piel, disminución del ritmo cardíaco, babeo y dilatación de la pupila.
+
+![Flores venenosas para tu mascota](/assets/images/posts/amapola-toxica-para-mascotas.jpg)
 
  
 
