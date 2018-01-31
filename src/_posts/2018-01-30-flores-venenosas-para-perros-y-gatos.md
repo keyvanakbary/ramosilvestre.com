@@ -17,14 +17,16 @@ Flores que se encuentran al aire libre o que puedes poner en tu casa y que son *
 A continuación, os dejo un lista de ochos flores tóxicas muy comunes, aquellas que nos podemos encontrar en cualquier parque o floristería. Esto no significa que tu perro o gato no se pueda acercar a ninguna de ellas, simplemente debemos tener **especial cuidado** cuando las tengamos cerca para que no las chupen o coman, ya que algunas desprenden un rico aroma que las puede hacer muy atractivas, pero esto no significa que tu mascota se vaya acercar siempre a ellas. Vayamos de menor a mayor peligrosidad.
 
 ## 1. Hortensia
+
 ![Flores venenosas para tu mascota](/assets/images/posts/hortensia-toxica-para-mascotas.jpg)
 
 Esta bella planta florece principalmente en primavera-verano y suele ser **muy común en España** por sus diferentes colores, por su belleza y su grandiosidad. Pero las hortensia si es ingerida por animales les produce vómitos, diarrea, inactividad y sueño.
 
  ## 2. Gladiolo
+ 
  ![Flores venenosas para tu mascota](/assets/images/posts/gladiolo-toxico-para-perros-gatos.jpg)
   
- Flor muy fácil de encontar en floristerías. Son muy llamativas y al ser alargadas y vistosas son usadas en muchos arreglos florales. Pero para los perros y gatos es tóxica produciendo sueño, babeo y malestar general.
+Flor muy fácil de encontar en floristerías. Son muy llamativas y al ser alargadas y vistosas son usadas en muchos arreglos florales. Pero para los perros y gatos es tóxica produciendo sueño, babeo y malestar general.
 
 
 ## 3. Tulipanes, narcisos y jacintos
