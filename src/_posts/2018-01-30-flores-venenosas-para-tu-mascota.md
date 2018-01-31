@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flores venenosas para tu mascota
-image: /assets/images/posts/cuidar-ramo.jpg 
+image: /assets/images/posts/hortensia-toxica-para-mascotas.jpg 
 description: Resumen de seis flores muy comunes pero venenosas para animales
 tags:
   - Flores
