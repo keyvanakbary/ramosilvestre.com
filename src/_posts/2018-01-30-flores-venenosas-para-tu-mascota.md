@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flores venenosas para tu mascota
-image: /assets/images/posts/hortensia-toxica-para-mascotas.jpg 
+image: /assets/images/posts/tulipanes-jacintos-toxicos-para-mascotas.jpg
 description: Resumen de seis flores muy comunes pero venenosas para animales
 tags:
   - Flores
@@ -19,13 +19,13 @@ A continuación, os dejo un lista de seis flores tóxicas muy comunes, aquellas 
 ## 1. Hortensia
 ![Flores venenosas para tu mascota](/assets/images/posts/hortensia-toxica-para-mascotas.jpg)
 
-Esta bella planta florece principalmente en primavera verano y suele ser muy común en España por sus difrentes y llamtivos colores, por su belleza y grandiosidad. Pero las hortensia si es ingeridad por animales les produce vómitos, diarreas e inactividad y sueño.
+Esta bella planta florece principalmente en primavera-verano y suele ser muy común en España por sus diferentes colores, por su belleza y su grandiosidad. Pero las hortensia si es ingerida por animales les produce vómitos, diarrea, inactividad y sueño.
 
-## 2. Tulipanes y jacintos
+## 2. Tulipanes, narcisos y jacintos
 
 ![Flores venenosas para tu mascota](/assets/images/posts/tulipanes-jacintos-toxicos-para-mascotas.jpg	)
 
-Estas flores son muy populares y famosas. Las podrás encontrar en invierno-primavera en parques y decorando terrazas. El jacinto tiene un fuerte aroma y puede ser muy llamativo para los perros y gatos. Estas dos flores son un bulbo, y estos pueden ser más tóxicos que la propia flor. Si es ingerido en una pequeña cantidad puede producir malestar general en el cuerpo de tu mascota, pero si es ingerido en grandes cantidades puede producir graves problemas cardíacos y respiratorios.
+Estas flores son muy populares y famosas. Las podrás encontrar en invierno-primavera en parques y decorando terrazas. El jacinto y narciso tienen un fuerte aroma y puede ser muy llamativo para los perros y gatos. Estas tres flores son un bulbo, y estos pueden ser más tóxicos que la propia flor. Si es ingerido en una pequeña cantidad puede producir malestar general en el cuerpo de tu mascota, pero si es ingerido en grandes cantidades puede producir graves problemas cardíacos y respiratorios.
 
 
  
