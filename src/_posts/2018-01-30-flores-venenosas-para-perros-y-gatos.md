@@ -46,7 +46,7 @@ Esta flor silvestre es muy común en primavera en cualquier campo o zona rural. 
 
 ![Flores venenosas para tu mascota](/assets/images/posts/lirio-toxico-para-gato.jpg)
 
-Esta flor es especialmente peligrosa **para los gatos**. Hay diferentes tipos de lirios y no todos son tan peligrosos. Con los que tenemos que tener mucho cuidado con con los **lirios Tigre (como el de la foto), los asicáticos y lo lirios de día**. Si tu gato ingiere 2 o 3 pétalos, o sus hojas es suficiente para causar problemas graves de envenamiento y si no es tratado a tiempo, producir la muerte rápidamente.
+Esta flor es especialmente peligrosa **para los gatos**. Hay diferentes tipos de lirios y no todos son tan peligrosos. Con los que tenemos que tener mucho cuidado con con los **lirios Tigre (como el de la foto), los asicáticos y lo lirios de día**. Si tu gato ingiere 2 o 3 pétalos, sus hojas o tallo es suficiente para causar problemas graves de envenamiento y si no es tratado a tiempo, producir la muerte rápidamente.
 
 Luego hay lirios, como los de Perú o los de la Paz, que no son tan tóxicos, producen irritación de lengua, garganta y esófago.
 
