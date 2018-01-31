@@ -27,17 +27,24 @@ Esta bella planta florece principalmente en primavera-verano y suele ser **muy c
 
 Estas flores son muy populares y famosas. Las podrás encontrar en invierno-primavera en parques y decorando terrazas. El jacinto y narciso tienen un fuerte aroma y pueden ser muy llamativos para los perros y gatos. E**stas tres flores son un bulbo**, y estos pueden ser más tóxicos que la propia flor. Si es ingerido en una pequeña cantidad puede producir malestar general en el cuerpo de tu mascota, pero si es ingerido en grandes cantidades puede producir graves problemas cardíacos y respiratorios. Además, los narcisos también son muy tóxicos si son ingerido por los **humanos.**
 
-
 ## 3. Amapola
-
-Esta flor silvestre es muy común en primavera en cualquier campo o zona rural. Hay que tener espcial cuidado con ella porque crece en cualquier sitio y simplemente con que nuestro gato o perro se acerque a ella ya les puede producir irritación de la piel, disminución del ritmo cardíaco, babeo y dilatación de la pupila.
 
 ![Flores venenosas para tu mascota](/assets/images/posts/amapola-toxica-para-mascotas.jpg)
 
- 
-## 3. Lirio
+Esta flor silvestre es muy común en primavera en cualquier campo o zona rural. Hay que tener espcial cuidado con ella porque crece en cualquier sitio y simplemente con que nuestro gato o perro se acerque a ella ya les puede producir irritación de la piel, disminución del ritmo cardíaco, babeo y dilatación de la pupila.
 
-Esta flor es especialmente peligrosa **para los gatos**. Hay difrentes tipo de lirios y no todos son tan peligrosos. Los que tenemos que tener muchi cuidado con con los lirios 
+
+## 4. Lirio
+
+![Flores venenosas para tu mascota](/assets/images/posts/lirio-toxico-para-gato.jpg)
+
+Esta flor es especialmente peligrosa **para los gatos**. Hay diferentes tipos de lirios y no todos son tan peligrosos. Con los que tenemos que tener mucho cuidado con con los **lirios Tigre (como el de la foto), los asicáticos y lo lirios de día**. Si tu gato ingiere 2 o 3 pétalos, o sus hojas es suficiente para causar problemas graves de envenamiento y si no es tratado a tiempo, producir la muerte rápidamente.
+
+Luego hay lirios, como los de Perú o los de la Paz, que no son tan tóxicos, producen irritación de lengua, garganta y esófago.
+
+
+ 
+
 
 
 
