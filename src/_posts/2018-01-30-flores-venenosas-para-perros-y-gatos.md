@@ -55,7 +55,7 @@ Luego hay lirios, como los de Perú o los de la Paz, que no son tan tóxicos, pr
 
 ![Flores venenosas para tu mascota](/assets/images/posts/azalea-toxica-para-perros-gatos.jpg)
 
-La azalea es una de las plantas **más tóxicas que existen para tu mascota**. Ingerirla les puede producir mareos, babeos vómitos y diarreas, y si no es tratada a tiempo la intoxicación, provocará a tu perro o gato estado de coma y posiblemente, la muerte.
+La azalea es una de las plantas **más tóxicas que existen para tu mascota**. Ingerirla les puede producir mareos, babeos, vómitos y diarreas, y si no es tratada a tiempo, la intoxicación provocará a tu perro o gato estado de coma y posiblemente, la muerte.
 
 
 
