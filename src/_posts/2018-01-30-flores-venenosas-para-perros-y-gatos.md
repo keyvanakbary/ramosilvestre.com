@@ -2,7 +2,7 @@
 layout: post
 title: Flores venenosas para perros y gatos
 image: /assets/images/posts/tulipanes-jacintos-toxicos-para-mascotas.jpg
-description: Resumen de seis flores muy comunes pero venenosas para animales
+description: "Flores que se encuentran al aire libre o que puedes poner en tu casa y que son tóxicas para perros y gatos. Pocas son altamente mortales, pero pueden producir mucho malestar en tu mascota."
 tags:
   - Flores
   - Curiosidades
