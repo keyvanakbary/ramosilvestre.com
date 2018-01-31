@@ -9,7 +9,7 @@ tags:
   - Consejos
 ---
 
-Lo que me ha llevado a escribir este artículo ha sido, como muchos sentiréis, **el amor que siento hacia mi mascota**. Tengo un gato y como animal muy curioso, al igual que los perros, siempre he querido saber que flores y plantas comunes pueden ser peligrosas para ellos.
+Lo que me ha llevado a escribir este artículo ha sido, como a muchos os pasará, **el amor que siento hacia mi mascota**. Tengo un gato y como animal muy curioso, al igual que los perros, siempre he querido saber que flores y plantas comunes pueden ser peligrosas para ellos.
 
 Flores que se encuentran al aire libre o que puedes poner en tu casa y que pueden resultar muy **tóxicas pero perros y gatos**. Pocas son altamente mortales, pero pueden producir mucho malestar en tu mascota, y además que estas molestias pueden derivar en algo más grave sino se detecta la intoxicación a tiempo.
 
