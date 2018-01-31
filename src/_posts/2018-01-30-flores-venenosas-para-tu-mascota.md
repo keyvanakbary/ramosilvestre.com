@@ -23,7 +23,7 @@ Esta bella planta florece principalmente en primavera-verano y suele ser muy com
 
 ## 2. Tulipanes, narcisos y jacintos
 
-![Flores venenosas para tu mascota](/assets/images/posts/tulipanes-jacintos-toxicos-para-mascotas.jpg	)
+![Flores venenosas para tu mascota](/assets/images/posts/tulipanes-jacintos-narcisos-toxicos-para-mascotas.jpg)
 
 Estas flores son muy populares y famosas. Las podrás encontrar en invierno-primavera en parques y decorando terrazas. El jacinto y narciso tienen un fuerte aroma y puede ser muy llamativo para los perros y gatos. Estas tres flores son un bulbo, y estos pueden ser más tóxicos que la propia flor. Si es ingerido en una pequeña cantidad puede producir malestar general en el cuerpo de tu mascota, pero si es ingerido en grandes cantidades puede producir graves problemas cardíacos y respiratorios.
 
