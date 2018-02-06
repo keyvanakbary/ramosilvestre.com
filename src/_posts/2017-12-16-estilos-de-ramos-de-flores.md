@@ -32,7 +32,7 @@ A veces se confunden términos, y los clientes explican que quieren un 'ramo de 
 
 #### Estilo
 
-Por último, os voy a definir 4 conceptos para tu ramo de flores ideal y podáis usarlos a la hora de **comprar tu ramo de flores:**
+Por último, os voy a definir 4 estilos para tu ramo de flores ideal y podáis usarlos a la hora de **comprar tu ramo de flores:**
 
 _**Clásico**_: Este ramo consistiría en usar **flores tradicionales** como rosas, lirios, cristantemos etc. Su forma es compacta y redonda y son muy usados para ocasiones especiales como aniversarios, porque son ramos románticos con muchas flores que transmiten un toque 'distinguido y caro'. Este ramo es ideal para personas clásicas o románticas.
 
