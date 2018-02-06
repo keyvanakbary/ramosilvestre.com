@@ -38,7 +38,9 @@ _**Clásico**_: Este ramo consistiría en usar **flores tradicionales** como ros
 ([Pincha aquí para ver un ejemplo de ramo comtemporáneo ](https://www.instagram.com/p/BGzLTpkG4kc/?taken-by=mywildbouquet))
  
 
-_**Estilo silvestre**_: Como muchos sabréis, este estilo es uno de mis favoritos. Consiste en un ramo natural, que evoca a la **naturaleza**, usando diferentes tipos de verdes y hojas, y flores silvestres. La forma del ramo es irregular (es decir, no es un ramo compacto) y lo recomiendo para personas que les guste mucho el campo y tengan un carácter más desenfadado.
+_**Estilo silvestre**_: Como muchos sabréis, este estilo es uno de mis favoritos. Consiste en un ramo natural, que evoca a la **naturaleza**, usando diferentes tipos de verdes y hojas, y flores silvestres. La forma del ramo es irregular (es decir, no es un ramo compacto) y lo recomiendo para personas que les guste mucho el campo y tengan un carácter más desenfadado.\
+
+([Pincha aquí para ver un ejemplo de ramo comtemporáneo ](https://www.instagram.com/p/BUwmTrxBxrj/?taken-by=mywildbouquet))
 
 
 _**Estilo contemporáneo**_: Este estilo es poco usual, por eso es un **ramo especial y arriesgado** en el que no se usa mucho verde, usando normalmente una sola gama de color (por ejemplo, un ramo solo en tonos rojos), usando flores poco usuales, como asiáticas o tropicales, y materiales modernos como troncos, plumas o incluso frutas. Este ramo lo recomiendo para personas que sabes muy concretamente que tienen gustos diferentes a los habituales y que tienen un estilo de vida más 'artístico'.
