@@ -35,7 +35,8 @@ A veces se confunden términos, y los clientes explican que quieren un 'ramo de 
 Por último, os voy a definir 4 conceptos para tu ramo de flores ideal y podáis usarlos a la hora de **comprar tu ramo de flores:**
 
 _**Clásico**_: Este ramo consistiría en usar **flores tradicionales** como rosas, lirios, cristantemos etc. Su forma es compacta y redonda y son muy usados para ocasiones especiales como aniversarios, porque son ramos románticos con muchas flores que transmiten un toque 'distinguido y caro'. Este ramo es ideal para personas clásicas o románticas.
-
+([Pincha aquí para ver un ejemplo de ramo comtemporáneo ](https://www.instagram.com/p/BGzLTpkG4kc/?taken-by=mywildbouquet))
+ 
 
 _**Estilo silvestre**_: Como muchos sabréis, este estilo es uno de mis favoritos. Consiste en un ramo natural, que evoca a la **naturaleza**, usando diferentes tipos de verdes y hojas, y flores silvestres. La forma del ramo es irregular (es decir, no es un ramo compacto) y lo recomiendo para personas que les guste mucho el campo y tengan un carácter más desenfadado.
 
