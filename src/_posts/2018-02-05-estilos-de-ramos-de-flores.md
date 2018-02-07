@@ -9,9 +9,9 @@ tags:
   - Consejos
 ---
 
-Algunos de vosotros os habréis encontrado en alguna ocasión hablando con un florista o dependiente e intentado explicarles qué ramo es el que queréis comprar. Contándoles un poco para quién es, la ocasión para lo que lo quieres, tus gustos etc. A veces se hace un poco tedioso porque el florista puede no captar bien la esencia, o lo que le intentáis explicar no se corresponde con el **estilo del ramo de flores**, ya que lo que para ti es clásico para otro puede ser contemporáneo, por ejemplo.
+Algunos de vosotros os habréis encontrado en alguna ocasión hablando con un florista o dependiente e intentado explicarles qué ramo es el que queréis comprar. Contándoles un poco para quién es, la ocasión para lo que lo quieres, tus gustos etc. A veces se hace un poco tedioso porque el florista puede no captar bien la esencia, o lo que le intentáis explicar no se corresponde con el **estilo del ramo de flores**, ya que lo que para ti es clásico para otro puede ser contemporáneo, por poner un caso.
 
-En este post os voy a contar, según mi experiencia de florista y en atención al cliente, unas pequeñas y muy sencillas pautas para **comprar un ramo de flores de manera adecuada**, teniendo en cuenta unos requisitos y así triunféis con vuestra compra, porque no queréis enviar un ramo romántico a un compañero de trabajo. ;)
+En este post os voy a contar, según mi experiencia de florista y en atención al cliente, unas pequeñas pautas para **comprar un ramo de flores de manera adecuada**, teniendo en cuenta unos requisitos y así triunféis con vuestra compra, porque no queréis enviar un ramo romántico a un compañero de trabajo, por ejemplo. ;)
 
 ![Significado de las flores](/assets/images/posts/significado-de-las-flores.jpg)
 
@@ -32,29 +32,19 @@ A veces se confunden términos, y los clientes explican que quieren un 'ramo de 
 
 #### Estilo
 
-Por último, os voy a definir 4 estilos para tu ramo de flores ideal y podáis usarlos a la hora de **comprar tu ramo de flores:**
+Por último, os voy a definir 4 conceptos para tu ramo de flores ideal y podáis usarlos a la hora de **comprar tu ramo de flores:**
 
 _**Clásico**_: Este ramo consistiría en usar **flores tradicionales** como rosas, lirios, cristantemos etc. Su forma es compacta y redonda y son muy usados para ocasiones especiales como aniversarios, porque son ramos románticos con muchas flores que transmiten un toque 'distinguido y caro'. Este ramo es ideal para personas clásicas o románticas.
-
-([Pincha aquí para ver un ejemplo de ramo clásico ](https://www.instagram.com/p/BGzLTpkG4kc/?taken-by=mywildbouquet))
- 
 
 
 _**Estilo silvestre**_: Como muchos sabréis, este estilo es uno de mis favoritos. Consiste en un ramo natural, que evoca a la **naturaleza**, usando diferentes tipos de verdes y hojas, y flores silvestres. La forma del ramo es irregular (es decir, no es un ramo compacto) y lo recomiendo para personas que les guste mucho el campo y tengan un carácter más desenfadado.
 
-([Pincha aquí para ver un ejemplo de ramo silvestre](https://www.instagram.com/p/BUwmTrxBxrj/?taken-by=mywildbouquet))
-
-
 
 _**Estilo contemporáneo**_: Este estilo es poco usual, por eso es un **ramo especial y arriesgado** en el que no se usa mucho verde, usando normalmente una sola gama de color (por ejemplo, un ramo solo en tonos rojos), usando flores poco usuales, como asiáticas o tropicales, y materiales modernos como troncos, plumas o incluso frutas. Este ramo lo recomiendo para personas que sabes muy concretamente que tienen gustos diferentes a los habituales y que tienen un estilo de vida más 'artístico'.
-
-([Pincha aquí para ver un ejemplo de ramo comtemporáneo ](https://www.instagram.com/p/_CrnJpm4rv/?taken-by=mywildbouquet))
- 
 
 
 _**Estilo corporativo**_: Yo definiría este estilo de ramo como **simple, sencillo y clásico**. Es un ramo que su función consiste en enviar un detalle  a personas que no conoces mucho, del entorno laboral para dar las gracias por una reunión, un trato cerrado o el éxito de algún negocio. Se podría considerar dentro del estilo clásico arriba mencionado, pero eliminando la parte sentimental y romántica que evoca un ramo de rosas rojas, por ejemplo. Por la tanto es un ramo sencillo, con flores habituales en floristerías que no denoten ideas confusas y sea bonito, perfecto para un regalo. Este puede ser **el más difícil de hacer**, por lo tanto dile a tu florista que quieres un ramo corporativo y deja en sus manos la decisión de elegir las flores, él sabrá que hacer.
 
-([Pincha aquí para ver un ejemplo de ramo corporativo ](https://www.instagram.com/p/BY1Bh9thfDp/?taken-by=mywildbouquet))
 
 ![Significado de las flores](/assets/images/posts/significado-de-las-flores-2.jpg) 
 
