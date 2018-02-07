@@ -48,7 +48,7 @@ _**Estilo silvestre**_: Como muchos sabréis, este estilo es uno de mis favorito
 
 _**Estilo contemporáneo**_: Este estilo es poco usual, por eso es un **ramo especial y arriesgado** en el que no se usa mucho verde, usando normalmente una sola gama de color (por ejemplo, un ramo solo en tonos rojos), usando flores poco usuales, como asiáticas o tropicales, y materiales modernos como troncos, plumas o incluso frutas. Este ramo lo recomiendo para personas que sabes muy concretamente que tienen gustos diferentes a los habituales y que tienen un estilo de vida más 'artístico'.
 
-([Pincha aquí para ver un ejemplo de ramo silvestre](https://www.instagram.com/p/_CrnJpm4rv/?taken-by=mywildbouquet))
+([Pincha aquí para ver un ejemplo de contemporáneo](https://www.instagram.com/p/_CrnJpm4rv/?taken-by=mywildbouquet))
 
 
 
