@@ -36,20 +36,25 @@ Por último, os voy a definir 4 sencillos conceptos para tu ramo de flores ideal
 
 _**Clásico**_: Este ramo consistiría en usar **flores tradicionales** como rosas, lirios, cristantemos etc. Su forma es compacta y redonda y son muy usados para ocasiones especiales como aniversarios, porque son ramos románticos con muchas flores que transmiten un toque 'distinguido y caro'. Este ramo es ideal para personas clásicas o románticas.
 
-([Ejemplo de ramo clásico](https://www.instagram.com/p/BGzLTpkG4kc/?taken-by=mywildbouquet))
+([Pincha aquí para ver un ejemplo de ramo clásico](https://www.instagram.com/p/BGzLTpkG4kc/?taken-by=mywildbouquet))
+
 
 
 _**Estilo silvestre**_: Como muchos sabréis, este estilo es uno de mis favoritos. Consiste en un ramo natural, que evoca a la **naturaleza**, usando diferentes tipos de verdes y hojas, y flores silvestres. La forma del ramo es irregular (es decir, no es un ramo compacto) y lo recomiendo para personas que les guste mucho el campo y tengan un carácter más desenfadado.
 
-([Ejemplo de ramo silvestre](https://www.instagram.com/p/BLthZTghdSq/?taken-by=mywildbouquet))
+([Pincha aquí para ver un ejemplo de ramo silvestre](https://www.instagram.com/p/BLthZTghdSq/?taken-by=mywildbouquet))
+
 
 
 _**Estilo contemporáneo**_: Este estilo es poco usual, por eso es un **ramo especial y arriesgado** en el que no se usa mucho verde, usando normalmente una sola gama de color (por ejemplo, un ramo solo en tonos rojos), usando flores poco usuales, como asiáticas o tropicales, y materiales modernos como troncos, plumas o incluso frutas. Este ramo lo recomiendo para personas que sabes muy concretamente que tienen gustos diferentes a los habituales y que tienen un estilo de vida más 'artístico'.
 
-([Ejemplo de ramo silvestre](https://www.instagram.com/p/_CrnJpm4rv/?taken-by=mywildbouquet))
+([Pincha aquí para ver un ejemplo de ramo silvestre](https://www.instagram.com/p/_CrnJpm4rv/?taken-by=mywildbouquet))
+
 
 
 _**Estilo corporativo**_: Yo definiría este estilo de ramo como **simple, sencillo y clásico**. Es un ramo que su función consiste en enviar un detalle  a personas que no conoces mucho, del entorno laboral para dar las gracias por una reunión, un trato cerrado o el éxito de algún negocio. Se podría considerar dentro del estilo clásico arriba mencionado, pero eliminando la parte sentimental y romántica que evoca un ramo de rosas rojas, por ejemplo. Por la tanto es un ramo sencillo, con flores habituales en floristerías que no denoten ideas confusas y sea bonito, perfecto para un regalo. Este puede ser **el más difícil de hacer**, por lo tanto dile a tu florista que quieres un ramo corporativo y deja en sus manos la decisión de elegir las flores, él sabrá que hacer.
+
+([Pincha aquí para ver un ejemplo de ramo corporativo](https://www.instagram.com/p/BM3aq1SBBUr/?taken-by=mywildbouquet))
 
 
 
