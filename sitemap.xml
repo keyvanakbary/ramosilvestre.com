@@ -13,10 +13,6 @@
 <lastmod>2017-11-30T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>/blog/estilos-de-ramos-de-flores</loc>
-<lastmod>2017-12-16T00:00:00+00:00</lastmod>
-</url>
-<url>
 <loc>/blog/como-cuidar-la-flor-de-pascua</loc>
 <lastmod>2017-12-17T00:00:00+00:00</lastmod>
 </url>
@@ -35,6 +31,10 @@
 <url>
 <loc>/blog/flores-venenosas-para-perros-y-gatos</loc>
 <lastmod>2018-01-30T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>/blog/estilos-de-ramos-de-flores</loc>
+<lastmod>2018-02-05T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>/blog/</loc>
@@ -73,9 +73,6 @@
 <loc>/blog/tag/cuidados/</loc>
 </url>
 <url>
-<loc>/blog/tag/regalos/</loc>
-</url>
-<url>
 <loc>/blog/tag/plantas/</loc>
 </url>
 <url>
@@ -89,5 +86,8 @@
 </url>
 <url>
 <loc>/blog/tag/curiosidades/</loc>
+</url>
+<url>
+<loc>/blog/tag/regalos/</loc>
 </url>
 </urlset>
