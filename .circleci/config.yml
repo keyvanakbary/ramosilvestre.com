@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-       - image: circleci/ruby:2.4.1-node-browsers
+       - image: circleci/ruby:2.6.1-node
 
     working_directory: ~/mywildbouquet
 
@@ -13,9 +13,12 @@ jobs:
           - v1-dependencies-{{ checksum "Gemfile.lock" }}
 
       - run:
+          name: Install Bundler 2.0.1
+          command: gem install bundler:2.0.1
+
+      - run:
           name: install dependencies
-          command: |
-            bundle install --jobs=4 --retry=3 --path vendor/bundle
+          command: bundle install --jobs=4 --retry=3 --path vendor/bundle
 
       - save_cache:
           paths:
@@ -24,7 +27,7 @@ jobs:
 
       - run:
           name: build site
-          command: jekyll build
+          command: bundle exec jekyll build
 
       - persist_to_workspace:
           root: .
