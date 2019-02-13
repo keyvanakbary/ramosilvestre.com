@@ -40,7 +40,7 @@ sass:
   style: compressed
 
 # Gems
-gems:
+plugins:
   - jekyll-sitemap
   - octopress-autoprefixer
   - jekyll-redirect-from
