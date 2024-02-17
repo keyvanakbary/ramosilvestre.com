@@ -1,5 +1,5 @@
 source: src
-destination: build
+destination: _site
 
 tag_dir: blog/tag
 
