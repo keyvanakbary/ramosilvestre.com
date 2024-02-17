@@ -1,5 +1,13 @@
 version: '3.8'
+
 services:
+
+  node:
+    image: node:11
+    working_dir: /node
+    volumes:
+      - .:/node
+
   jekyll:
     image: jekyll/jekyll:3.8.5
     command: jekyll serve --watch --force_polling --incremental --port 4000

@@ -1,17 +1,12 @@
 {
-  "name": "cartwheel-jekyll",
+  "name": "ramosilvestre",
   "version": "1.0.0",
-  "description": "Cartwheel is a responsive blog theme for Jekyll built using HTML, Sass, and jQuery with a clean and modern design.",
   "main": "gulpfile.js",
-  "homepage": "https://themeforest.net/item/cartwheel-a-simple-clean-portfolio-theme-for-jekyll/19438322",
+  "homepage": "https://ramosilvestre.com",
   "scripts": {
-    "start": "gulp"
+    "start": "gulp",
+    "build": "gulp build"
   },
-  "keywords": [
-    "jekyll",
-    "blog"
-  ],
-  "author": "Thomas Vaeth <thomas.vaeth@gmail.com> (http://thomasvaeth.com/)",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",

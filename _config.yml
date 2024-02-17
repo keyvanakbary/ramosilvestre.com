@@ -31,7 +31,7 @@ social:
   instagram: https://www.instagram.com/mywildbouquet/
 
 # Build settings
-exclude: ["node_modules", "gulpfile.js", "assets/js/app.js", "README.md", "Gemfile", "Gemfile.lock"]
+exclude: ["node_modules", "gulpfile.js", "assets/js/app.js", "README.md", "Gemfile", "Gemfile.lock", "docker-compose.yml"]
 markdown: kramdown
 permalink: /blog/:title
 

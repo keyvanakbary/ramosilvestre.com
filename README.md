@@ -7,4 +7,10 @@
 
 ## Running the site
 
-    docker compose up
+Build assets
+
+    docker compose run node npm run build
+
+Serve Jekyll
+
+    docker compose run -p 4000:4000 jekyll jekyll serve --watch --force_polling --incremental --port 4000
